@@ -1,0 +1,54 @@
+Hello guys ,
+
+I see most of them require VPN here so wanna share this great tutorial .
+
+
+TUTORIAL
+
+METHOD 1
+
+1. First download Hotspot Shield from
+ 
+ http://mydati.com/download/hss-win2/DM-338.exe
+ 
+or
+ 
+ http://download.cnet.com/hotspot-shield/
+
+Don't install it just yet.
+
+2.Now i am going to teach you how to remove those annoying ads and keep your favorite search engine.
+ 
+ Open the hosts file in C:\WINDOWS\system32\drivers\etc with notepad or any text editor
+add the following in the hosts file just below the 
+127.0.0.1    localhost
+
+127.0.0.1 rss2search.com
+127.0.0.1 techbrowsing.com
+127.0.0.1 mefeedia.com
+127.0.0.1 http://www.mefeedia.com
+127.0.0.1 anchorfree.net
+127.0.0.1 http://www.anchorfree.net
+127.0.0.1 box.anchorfree.net
+
+Then save and close it.
+
+3.nstall the Hotspot Shield and you are done
+Important: uncheck the hotspot shield toolbar. Don't simply click next / install without reading the installation process.
+
+4.Clear your Browser with CCleaner or FCleaner .
+
+Enjoy free VPN without ADS.
+
+**********************************************************************
+
+METHOD 2 .
+
+INSTALL HOTSPOT SHEILD.
+DOWNLOAD ADBLOCK+ ADDON 
+
+This methods annoys ur system nd browser.So I prefer Method 1.
+
+SO ENJOY FREE VPN WITHOUT ADS ..
+
+

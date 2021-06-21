@@ -1,0 +1,20 @@
+We all know how to SE Logitech, however how often does it work? I know this thread might be repetitive, but I just wanted to help out some members that have problems with logitech. I have found what they look at to decide wether to ask you to ship the product back first, or shipping you a new product. I prefer emailing them as I have a better chance to SE it that way.  Here's what you need:
+
+- A LEGIT (cannot stress this enough) P/N and PID.
+A P/N that starts with 9 is a packing P/N. If you give then a P/N that starts with a 9, they will automatically deny you.
+The PID must also be legit.
+A way you can get these is by messaging ebay sellers, or sellers on craigslist.
+If they ask for the M/N number, that can actually be found online.
+
+- A STORE receipt. 
+This cannot be Amazon or Newegg or any other online store. They do verify these receipts. What you need is a Walmart(example) store receipt, which works perfect. Just incase they do call, make a google voice number that forwards to your cell phone the phone number on the receipt. That way if they do call, you can just confirm everything on the receipt. 
+
+
+Now to start of the SE:
+Say the product has no power going to it, and that you've tried it on multiple computers. They might do some additional troubleshooting, but you should be good. They should then ask you for your product numbers (PID,P/N etc) If you did indeed get legit numbers, then you should check out here.
+
+After this, if you were on the phone, they will ask you to email them the receipt. If your on email they will just ask you to email them the receipt. If your receipt looks good by eye, I think they don't even bother calling to verify. But just incase they do, you have your google voice number on there.
+
+If all of this checks out on their end, they should offer you a replacement. They will ask you for your home address. A drop is not needed for logitech!
+
+Good luck SE'ing!

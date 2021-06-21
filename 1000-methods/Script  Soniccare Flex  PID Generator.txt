@@ -1,0 +1,123 @@
+First : See thread for the method http://astropid.com/forums/showthread.php?4435-Tut-Soniccare-Flex-Toothbrush!
+
+Thanks wolfspinone! And of course, HappyChappy for the algorithm.
+
+The Generator :
+http://linksx.us/code/sfp.php 
+
+My original post in the method thread : 
+I was EXTREMELY bored and needed a little PHP exercise so I wrote a small script for generating PIDs from the algorithm.
+
+http://linksx.us/code/sfp.php
+
+All credits given.
+
+Secret code is : 43astro34
+
+Seems a little redundant of course, since the algorithm is so easy to just do in your head. But again, I was bored, needed a small PHP exercise for the day, and felt like contributing in some way to the community.
+
+Features: 
+
+Makes sure that the week portion of the code isn't in the future...for example if, today, you chose the year 2011, the week part of the PID won't be above 41 which is the current week number.
+Generate multiple PIDs at once.
+Locked with the secret code ^, so only we can use it ! Don't leak.
+
+I will post the source code if it's wanted as well (for those learning PHP)
+
+
+So yes, redundant and unnecessary but meh I still wanted to code it lol. So generate as many PIDs as you want (though I've made the form to only allow up to 9 at once) and just randomly pick ONE ! Don't rape the method.
+
+Source code (for learning purposes) :
+Edit: Updated source code: Indentation, typo fixes, more readable 
+Probably better to view it with syntax highlighting : http://pastebin.com/hzg5mELX 
+Dont worry, I made it private
+
+
+<?php
+
+function generate_pid($code, $year_stripped) {
+	if ($code == "43astro34") {
+	
+		/*
+		   1.Give the variable name $year back to the 2-digit form of the year chosen
+		       ( for readability purposes..could also do this by just changing the parameter
+		       from year_stripped to year but I prefer caller and function params to match. )
+		   2.Generate year # before chosen year
+		   3.Get the 2-digit form of current year, regardless of year chosen
+		   4.Generate last year
+		*/
+	
+		$year = $year_stripped;
+		$year_before = $year - 1;
+		$current_year = strftime("%y");
+		$last_year = $current_year - 1;
+	
+		/* 
+		   1. Get current week and Typecast it to an integer
+		   2. Get a random week starting with Week 4
+		*/
+		$current_week = (int)date("W");
+		$week = rand(4, 52);
+	
+		/* 
+		   Check to see if the random week has not yet hit in the chosen year...
+		   as this would not be good. You can't purchase a toothbrush in the future!
+		   Run fallback method to make the week portion either 1 month ago or 1 
+		   week ago based on current week
+		*/
+		if ($year>$last_year && $week>$current_week) {
+			if ($current_week<5) {
+				$sub = 1;
+			}
+			else { 
+				$sub = 4; 
+			}
+			
+			$week = $current_week - $sub;
+		}
+	
+		// Check to see if week is a # 1-9...if so add 0 in front of it to make it 2 digits
+		if ($week<10) {
+			$week = "0" . $week;
+		}
+	
+		// Generate random #
+		$rand = rand(10, 99);
+	
+		// Generate PID based on chosen year, calculated week, and random 2 digits
+		$pid = $year . $week . $rand;
+	
+		// Display the PID to the user
+		echo "Congratulations, your PID is: $pid ... Brush twice a day bro! </br>";
+		
+	}
+}
+
+//grab the secret code from the post page
+$code = $_POST;
+
+//get purchase year from post page
+$year = $_POST;
+
+//strip year down to last two digits
+$year_stripped = substr($year, -2);
+
+//get $count of how many PIDs to generate
+$count = $_POST;
+
+//run algorithm and generate PIDs while $count  = amount left to generate
+while ($count>0) {
+	generate_pid($code, $year_stripped);
+	$count--;
+}
+
+
+?>
+
+
+I see some things I can change, but it's pretty damn simple anyway so I'm satisfied. I'll probably add some CSS to make it look better though.
+
+
+
+
+Thanks for reading, and for the coders out there I hope you learned something from my source

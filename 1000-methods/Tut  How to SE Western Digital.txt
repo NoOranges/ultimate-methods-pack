@@ -1,0 +1,21 @@
+What you'll Need
+- Serial 
+- Creativity
+Might Need
+- Picture
+- Receipt
+- Prepaid Card (Advanced replacement)
+- Drop (Advanced replacement)
+
+Finding a Serial
+Western Digital has made it very easy to find a serial. You must first create a new account then once you have made account go to the product registration page. 
+
+You should see this.
+http://i.imgur.com/AId4Pl.jpg
+Now you should see at the bottom of the page, examples of serials. Now for the My Book 3.0 it gives you the beginning of the serial (WCATR) and there is 7 more numbers after. Just enter a 7 random numbers, choose where you brought it so it corresponds to your fake receipt and a random date (If you live in the UK put it more than a year back). Now on the next screen you'll either get an invalid serial or another error, just try again till you get one that works.
+http://i.imgur.com/fGVFfl.jpg
+
+SE Part
+Then the next page is just a survey, complete it and move on. Now go to "Manage Your Account" and click on "Extend your warranty | Warranty Services" click on product replacement. You should now have two options advanced replacement and standard replacement. Advanced should be easy enough but you'll need a prepaid card and possibly a drop (I haven't tested this). For the standard replacement you'll get an email straight away instructing you to send it in. Instead contact Western Digital by going to the support page and choose either email or phone. I recommend email then enter all of the information including the RMA number which you should have got via email. Then you'll need to come up with an excuse for not sending it in, be creative. 
+
+After 10 days talking back and forth I got a 2TB Desktop Hard Drive by using a photo and no receipt.

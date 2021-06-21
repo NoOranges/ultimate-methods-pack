@@ -1,0 +1,10 @@
+Introduction
+http://www.myunu.com - This is the website we'll be exploiting today. Pretty simple.
+
+Method
+1. Fill in the following with your excuse: http://www.myunu.com/technical-support-form/.
+2. Generate a fake receipt (http://vortexhs.com/amazon) and answer their straightforward questions.
+3. Enjoy your new accessory.
+
+Conclusion
+It's really that simple.

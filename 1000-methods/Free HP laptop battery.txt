@@ -1,0 +1,17 @@
+First go to:
+http://bpr.hpordercenter.com/hbpr/Default.aspx
+
+2)Scroll down until you reach validate your battery. Here select dv9000
+
+3) select you country
+
+4)How did you find out about this recall? Choose any
+
+5) For notebook serial number use variation of this: CNF73813QL . Like CNF73813DL
+
+6) One battery barcode you can use only once. But it is easy to get it.
+As example use 65033N3B7V0HDV . Change some letters and we have valid serial number: 65033N3B7V0LZY
+
+7) If everything OK, it will ask adress. If no try again.
+
+Good luck

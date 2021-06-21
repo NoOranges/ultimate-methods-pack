@@ -1,0 +1,56 @@
+Note: This method is written based on my experience with this company in the UK. Minor details may vary depending on your location and the saturation of the company at the time that you attempt this.
+
+Note: I’ve called hp around twice a week for a month, so I have a roughly good idea of how their printer warranty system works (don’t worry, I didn’t rape them).
+ 
+Firstly some general information
+
+
+I’ve identified and labelled 3 types of reps that you may deal with, and what their relevance is in your social engineering attempt.
+
+
+Technical support – These guys are the first people you speak to on the phone if you’ve been directed to tech support via the switchboard, or if you call them directly. They create a case ID for you. They’ve processed instant replacements without asking for anything in return (POP, VCC, old one back, etc) and are generally the nicest. I can’t guarantee that they’ll always not ask for anything, however.
+Technical support supervisors – Less friendly than regular tech support guys, the supervisors have a much higher chance of requesting the old one back, and making sure you get emails if you don’t send it.
+Logistics – This department is made up of two reps (Stephan and Jerimiah). Their job is to ship out printers, and they are the least friendliest that i’ve come across (out of the 3 types of reps). Have always asked me for POP and a picture of the serial. I got directed to them after saying I got the wrong printer (I was told to tell them to create a new order for another one).
+
+
+How to get a HP printer
+
+
+
+Call up 08452704567 – Found a cheaper number via http://www.saynoto0870.com/search.php which is a very useful website for finding alternative numbers, or just quick-searching the number of a company without having to check their website first.
+
+If you use the number I provided (which is the HP switchboard), ask for technical support for “insert printer model here” in warranty.
+
+
+Troubleshoot – I told them that the LCD screen was lit, but no text appeared. This seems like a common issue with some of the printers with LCD’s, as they told me that they have one with them with the exact same problem. Search online to get an idea, be creative but not unrealistic. They will tell you to do
+Provide the serial number – They will ask what model printer it is, and what the serial number is. I just played dumb and asked them where I could find it first, etc to seem more genuine. I’ve been asked for a picture of the serial number + POP (A decent looking Amazon one worked perfectly fine), and I’ve also been given a replacement without either. Depends on the rep/how much rapport you have.
+Provide your name, email address, and phone – This may be asked for in any step, btw.
+Provide your shipping address – So they can ship you a replacement unit. They have never asked me for a VCC. I’ve been asked for the old one back, and also been told that I should dispose of the old one myself (on separate occasions, of course). The printer comes alone in a brown box.
+
+ 
+Extras: You can get another printer if you manage to convince the rep to create an order number for the wrong printer. This works if there is more than one printer in a family, and you give them the wrong model number. I.e HP Deskjet 3050A series is a family name, which includes Deskjet 5055A and 3050A. If you get them to send you 50A instead of 55A for example (and your serial is for 55A), you can ring up after getting it, and then get the correct one shipped to you (without them asking for the ‘wrong’ one back first).
+ 
+If they ask for a picture of the serial: use the one below (It’s a serial from the most expensive one I could find (Officejet Pro 8600), or PM me and I might have one in the model you need.
+
+http://imgur.com/QyRXDAY
+
+If they ask for POP, just Photoshop one from a store that sells them (currys, JL, argos, etc) or use an Amazon receipt. (I sent a screen cap of me logged into Amazon with the fake order details on display)
+
+And finally, bills: I did get this lovely email quite a few times (only when i’ve been told on the phone to return the old one. When they’ve said I can keep it, there were no emails):
+
+Dear swiftylol,
+ 
+ 
+You have recently called the HP Support Service Centre to report a hardware failure on your device. 
+ 
+ 
+In response to your request, we opened a support case with the references below, and supplied you with a replacement device on xx/xx/xxxx.
+Repair reference: xxx,
+Serial number: xxx
+Call reference: xxx
+Product nbr: xxx
+Description: xxx 
+ 
+ 
+According to the HP warranty terms and conditions and to comply with our commitment to environment, the defective device is now property of HP and must be returned within the 5 working days following the delivery.
+HP reserves the right to invoice you for the value of defective devices that are not returned.

@@ -1,0 +1,64 @@
+Okay, so I have just tried this and it has worked, it does require a serial number and PoP (can be fake)
+
+_____________
+
+
+Difficulty:
+2/10
+
+
+Requirements:
+
+• Serial number of CoolerMaster Case
+• Receipt (I used PayPal Receipt Generator)
+• An Email Account
+
+
+Tutorial:
+
+
+Step 1:
+
+Go to: http://www.coolermaster.com/tech_support.php?action=Form
+
+
+Step 2:
+
+Input all your information about your PC
+
+
+Step 3:
+
+For the 'Comment' part, say something a long the lines of:
+
+"I just bought a Insert Case Name and the fans on the Insert Location of the case don't work, I have tried multiple other fans and they work fine, I really wanted the LED fans as they look really nice. I have bought CoolerMaster products before and have not had a problem like this as the products are usually high quality, Thank you."
+
+*Don't use the exact exuse I did... it will just get obvious, be creative*
+
+
+Step 4:
+
+You should then receive an email within 24 hours asking for the Serial Number of the case and a Proof of purchase.
+
+
+Step 5:
+
+Simply use the PayPal receipt generator and get a serial number off Criaglist, eBay etc...
+
+
+Step 6:
+
+You should then receive another email saying, thank you and that they're sending out your new fans :)
+
+
+Step 7:
+
+Profit!!
+
+
+_______________________________________________
+
+
+Proof:
+
+http://i1091.photobucket.com/albums/i381/xL3G3NDx/Yeah.jpg

@@ -1,0 +1,32 @@
+To do a Dell or Alienware SE you will need a service tag and in this thread i will teach you how to get a tag and how to get them transferred. This Guide and the links in it are US based and for other countries it will probably be different.
+
+Obtaining a tag. A tag is 7 different words/letters (there is a algorithm for specific machines but I am still figuring that out) for example a service tag would be : H4LN5R1
+
+To check a lot of information on what the computer it is you are seing check this link : http://www.dell.com/support/troubleshooting/us/en/19/Index?c=us&l=en&s=dhs&cs=19&t=warranty It's the warranty information just provide them with the service tag/express service code for the information on it's warranties and parts.
+
+To obtain a tag there are many ways. I personally use a bruteforce script which will find tags and record them for me but if you don't want to do that go to one of these sites and  ask the seller a question which will get you a tag
+
+Ebay.com
+Craigslist.com
+
+Just ask them if you can see the tag for the warranty ect
+
+Now once you have obtained the tag here are the tricky bits. Hidden on the dell website there's a service tag to express service code converter. If you can't find it here's the link (US): http://www.dell.com/support/troubleshooting/us/en/19/Expressservice?c=us&l=en&s=dhs&cs=19
+
+
+Now after you've converted your code you are armed and ready to transfer it to your name. Move onto the ownership transfer page which can be found here :http://www.dell.com/support/retail/us/en/19/ownershiptransfer/IdentifySystem
+
+What i am going to tell you next will only work in the US. Other countries have a instant transfer as well but it's hidden and i doubt even dell know where it is however if you're smart you will figure out how. 
+
+Anyways type in the service tag AND the express service code. This is important because as soon as both of those are in it's a certain transfer. Make up random details on the last guy on the next page or just put ebay there it doesn't matter. Then put in your details on the page after. 
+
+You're done now. It's successfully transferred to your name.
+
+
+
+
+Feedback would be appreciated have fun learning how to SE dell/alienware.
+
+
+
+Updating as i go along

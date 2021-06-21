@@ -1,0 +1,11 @@
+Step 1: First you need the serial for an authenticator. I'll give you one for free, Blizzard sent me 2 free ones since mine was broken:
+http://i465.photobucket.com/albums/rr14/theminatar/Mobile Uploads/0315121058.jpg
+If you can't read it here is the serial: 22-1268034-6, 6 digit code format: 730074(make up 6 numbers)
+
+Step 2: Call Blizzard up: (USA) 1-800-592-5499 (Canada) 1-800-592-5499 (UK) 0800 0288246
+
+Step 3: Tell them that you tried attaching the authenticator to your account but every time it asks for the 6 digit code it says it's invalid. Say that the site accepts the serial as an authenticator but it keeps saying the 6 digit code is invalid. They will try to force bind it to your account through their systems, when they ask you to log onto your account and try to use the authenticator tell them the same thing, say that it says the code is invalid. They will then unbind the authenticator from your account and ask you for your shipping information so they can send you a new one free of charge.
+
+Step 4: When you get it, it will be an authentic authenticator you can bind it to your account or sell it. They're only like $7 anyways but they are always sold out.
+
+Enjoy, it's pretty simple if you think about it. Nothing special but I don't think many people have to tried to get a free one before.

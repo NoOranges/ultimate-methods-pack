@@ -1,0 +1,18 @@
+This is really simple.
+
+We are going to be using a Kindle for an example. The following like shows what the code means:
+http://wiki.mobileread.com/wiki/Kindle_Serial_Numbers
+
+So now find the code of the model you want i am going to use 
+B0C9 this is for a Kindle Fire HD 8.9" 16GB
+
+now goto Google.com and type intext:"B0C9" or change "B0C9" into the model you are looking for.
+
+So you will get lots of random trash in the search like bellow
+http://gyazo.com/c74590a99533b2ff50e2b7292373e2aa.png
+
+So lets narrow it down to what we really want so go to the Google Search box and add "Kindle" to it and you will have something like bellow
+http://gyazo.com/62a749aa5fdb3209ebc854518a2fc225.png
+and now you see some SN's for Kindles.
+
+Yes i know that you may not get vary many SN's but this helps gather some PIDs and then you can try to make some type of generator.

@@ -1,0 +1,27 @@
+I found this eBook laying around on my computer, and i'm pretty sure i bought it off of someone on Hackforums. I will provide the basics of the eBook in my own words, besides the template that is being copied straight from the book. This method is easy, and mostly has a high success rate.
+
+Basically you're going to want to go here - http://help.instagram.com/customer/portal/emails/new
+This is the support for instagram, and how you will social engineer them into thinking you have a registered trademark.
+Fill out your name, email, and for the subject put trademark request.
+The device type does not matter, as far as i am aware.
+In the message field copy this template:
+Your first and last name:
+ Title:
+ Address:
+ Phone:
+ Email (must be from company domain):
+ Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior):
+ Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account):
+
+Here is the example from the eBook:
+Your first and last name: Peter Zinerco 
+Title: Mr. 
+Address: xxxxxxx 
+Phone: xxxxxxx
+ Email (must be from company domain): xxxxx@xxx.com <- Main Email 
+Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior): Zin. Is our company, we bike across new york, advertise companies, and we would like to retrieve this username. The current owner is inactive and wasting our good name. It makes me look bad if someone searches us. 
+Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account): I would either like access to that account, or for that username to be changed so we can claim it.
+
+Also, I would not suggest that you copy in the example word for word, as i am sure that getting that exact email with little changed a few times would look a bit suspicious. A note: If you don't put the subject as trademark, they will not give you the name. They rarely give you a username just for the fact that it is inactive. Also, it's easier to go for something not insanely original like 'God' I'd go for Semi's or not so common OGs. Please note that this is not copied word for word from the eBook, and only a few things have been copied, such as the template. I searched and didn't see any methods like this, and i figured it's considered social engineering. You are coming up with a story to convince them as to why you should get your desired username, and convincing them that it is a registered trademark of yours.
+
+If you have any questions regarding this, please PM me. I'd be more than happy to help out. Also, it sometimes takes 3-5 days for a response, and you aren't always guaranteed your desired name. More than likely you will receive the name if it isn't insanely OG, so Semi's have a higher success rate. Just a note. :)

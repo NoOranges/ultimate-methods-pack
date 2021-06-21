@@ -1,0 +1,23 @@
+Note that this does require an initial investment and legitimately bought apps. I cannot guarantee this will work for you if you straight up copy/paste or if this method gets extremely saturated. Due to recent leaking and fast saturation I'm keeping this guide somewhat generic, use your god damn imagination!
+
+This is a method for acquiring a refund from apple after your app purchases, while still keeping the apps. Personally, I decided to stick to having $50 refunded to keep the rep from taking extra steps to ensure I did not receive a profit.
+
+Step 1: Download some apps, make sure the total of the apps purchased isn't above $100 for your safety. Make sure that one of the apps allows in-app purchases. Make sure that all the apps you buy are processed to the same order number, this can be done by making sure the apps are all purchased on the same day, and that no other apps were purchased that day.
+
+Step 2: Go into the app that has in-app purchases, buy in-game currency (MAKE SURE IT'S CURRENCY, or at least something that can't be re-instated by Apple) The app you are buying currency from must NOT have iCloud support.
+
+Step 3: Email Apple and tell them that  glitched and needed to be reinstalled and that you lost your currency, and that you tried reinstalling but it didn't come back.
+
+Step 4: The Apple rep should tell you to re-purchase it and he will refund you, tell him you don't have enough credit and that you don't have a credit card (make sure you have no CC hooked up to your account).
+
+Step 5: The Apple rep will ask you for your order number. Go get your order number, it will be in your account options in iTunes under "purchase history". This order number should include the in-app purchase as well as all the other apps you bought that day.
+
+Step 6: Give him the number, he will then email you back saying your account has been credited.
+
+Congrats! You just gained X amount of free apps. 
+
+Remember, you are re-credited by the rep, that is a balance in your iTunes account only and can't be converted to money/gifted to another account.
+
+I would suggest doing this with apps you actually want so if you fail, there is no actual profit loss.
+
+1036 <-- Proof

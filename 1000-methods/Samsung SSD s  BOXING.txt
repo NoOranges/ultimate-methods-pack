@@ -1,0 +1,29 @@
+SSD ONLY. I HAVE GOTTEN REPORTS THAT OTHER DEPARTMENTS DON"T CARE IF YOUR PACKAGE IS LOST
+
+I put this in VIP because only like 3 guys handle missing packages when sent in (in my experience).
+
+Requirements
+1. Serial: Easily obtainable from pictures of eBay
+2. Phone
+3. Box
+4. Printer
+
+Method for a Samsung SSD:
+1. Call 1-800-SAMSUNG. Go through the automated phone thing to speak to the right department.
+
+2.  Go through troubleshooting and etc. Say there are bad sectors and you have ran secure wipe and chkdisc.
+
+3. They will send a prepaid label through email to send your product in.
+
+4.  Print the label and proceed with normal boxing procedures. IMPORTANT: They get the package inspected by UPS. So you must have the package up to standards (Packaging peanuts and good structured box. Also make the box look slightly tampered). I don't know what would happen if UPS finds the sender liable for the loss since they send you a new one right away.
+
+5. After they receive the empty box, they call your phone number and ask you if you put the item in there. Rage at the guy for treating you like a retard; who forgets to put an item in?
+
+6. They will two day ship your new SSD after calling you.
+
+
+NOTE:
+
+The SSD's are refurbished. 
+
+I asked for AR but they said, "It is not available for THIS product." Maybe there is a Samsung product that has AR...............

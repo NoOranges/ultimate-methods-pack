@@ -1,0 +1,9 @@
+This is a simple method, don't know if this has been posted.
+
+Basically, you get any photo you took from your camera, re-name it to file.txt
+Then you open it in text editor, and screw around with some code. Insert random letters and stuff.
+After you're done, you need to rename it to back to an image file. For example, IMG_3824.
+Open the file to test that it doesn't show your original photo, and windows image viewer says the image is corrupt.
+Email them back the photo. If they say that it's corrupted, you can now say that you already threw out the product, so you can not take another photo. 
+This will NOT work if you need proof for a receipt.
+Prefect for people too lazy to Photoshop.

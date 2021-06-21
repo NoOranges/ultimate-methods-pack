@@ -1,0 +1,35 @@
+For this method, you will need:1 iDevice( or whatever device you want to try to upgrade ), in warranty for simplicity, or somehow fake that it is in warranty.
+1 disposable camera
+1 metal rod, preferably copper or iron
+Low-gauge insulated wire( < 10 )
+Insulated screw driver
+Common sense
+
+
+Some of you might get where this is headed, but bear with me while I go through what to make.
+
+
+Production:
+
+
+Open up the disposable camera. You should see a cylinder with two wires out of the bottom. Remove the battery. Discharge this cylinder( the capacitor ) by putting the head of the screwdriver across both wires. BE CAREFUL. It won't kill you, but ~500V will sting.
+Remove the flash bulb, being careful to keep the wires that were connected to it intact.
+Coil the insulated wire around the metal rod as tight as you can get it, leaving 20cm or so trailing on each end( you need both ends to reach the wires previously on the flash bulb ).
+Connect each end of the coil to the wires where the light bulb previously were.
+Plug in the battery, and wait a minute or so for the capacitor to charge.
+
+
+
+Execution:
+
+
+Find an area with a few meters of clearance in all directions of electronic devices. Check your pockets.
+Place the iDevice next to the device.
+Hit the button on the camera board you would normally press to take a picture.
+You should now have a completely broken iDevice.
+Email Apple, be all like "ayo my shit doesn't work at all", be sure to push for a mail-in repair.
+They should, at some point, say "I'm sorry, we don't have any replacement <device> anymore. Would you be okay with a <upgraded device>?"
+
+
+
+Better than a box, because it leaves less of a trace.

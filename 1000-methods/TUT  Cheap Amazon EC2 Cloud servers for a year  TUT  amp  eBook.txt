@@ -1,0 +1,19 @@
+Not as much social engineering as a kick ass method for free shit.
+
+
+ Get yourself an email and skype and a vcc with like ?. $2 you will need it
+ Go http://aws.amazon.com/free/ ? create an account
+ Punch in some fake info
+ Punch in your google voice
+ Wait for google voice call
+ Punch the pin they gave you in
+ They will charge $2 on your vcc?..
+ Feel free to use your new linux vps to ddos
+
+
+You now have micro amazon EC2 Cloud hosting for 1 year for $2... not to shabby
+
+
+
+eBook
+http://www.socksplease.org/clouditup.pdf

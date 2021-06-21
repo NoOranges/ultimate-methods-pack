@@ -1,0 +1,10 @@
+Most know this but I'm writing up anyway, @Super Mario already has a guide to remove EXIF data, but I find if you use Photoshop, this method is quicker and easier.
+
+After you've finished shopping your picture, you'll want to remove the EXIF data.
+
+Open the image in Photoshop, if it isn't already.
+Press 'Shift + Ctrl + Alt + S', or go to 'file', 'save for web & devices'
+
+Where it says 'metadata', click none, then click save. Now your image has no EXIF data.
+
+I'd have added pics but I'm so lazy and for some reason print screen don't work.

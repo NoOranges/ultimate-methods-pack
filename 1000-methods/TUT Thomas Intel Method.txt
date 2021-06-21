@@ -1,0 +1,78 @@
+So, he is banned and thinks its okay to sell other peoples methods w/o their permission so i figured why not give out this shitty method. (It will never happen to anyone elses ebook this is a special circumstance)
+
+To Kick this whole thing of you would start but calling up intel support.
+go to http://www.intel.com/support/feedback.htm?group=processor
+and click under the live chat still need help then choose your countrys number and call them.
+This step is easy, Tell them the proccesor you have tell them it's stopped working, you have tried it in another system the same and it did not work. also you tried another of the same type cpu with the pc that the broken one was not working in and it worked great,
+so he/she will take and email from you say it's strange ect, and you will get an email similar to this. I would of screen capped this one but it is to long.
+Thank you for contacting Intel® Technical Support.
+As previously discussed, we need a full system configuration in order to identify the root cause of the issue correctly and being able to provide an adequate solution.
+All part numbers needed should be read directly from the component itself and not from within software which very often only show the specs of the product but not the relevant information we need.
+Please provide all system components. In case a component is onboard, please state accordingly. If something does not apply at all, just state n/a:
+
+CHASSIS
+Model:
+PSU
+Manufacturer:
+Model:
+Watt:
+ATX revision: ATX 12V ver. 1.0, 1.3, 2.0, 2.2 or 2.3?
+MOTHERBOARD
+Make (if non Intel board):
+Model
+Revision(if non Intel board):
+Serial# (if Intel Board):
+AA#(if Intel board):
+BIOS:
+(if the system boots, please specify the BIOS version. If not, please advise if the BIOS has been updated in the past and approx. when)
+CPU
+CPU model: Intel® ………………….
+SL# (on the 3rd line of the cpu itself):
+FPO# (on the fifth line of the cpu itself):
+Fan Make:
+Fan Part#:
+HDD (Make and model, Size, Type if SATA, IDE, if RAID configured):
+In case you are using a solid state drive
+SSD model:
+SSD part number:
+SSD firmware version:
+Memory
+Make:
+Type: DDR1/2/3?
+Part Number:
+Population (how many modules and in which slots integrated e.g. A1, B1…)
+GRAPHIC CARD
+Make:
+Model/GDDR:
+SOUND CARD
+Make:
+Model:
+DVD/CD
+Make:
+Model:
+SATA or IDE
+Any other add-in cards integrated in the system?
+OPERATING SYSTEM
+Build-Version:
+Service Pack:
+Language::
+For further queries please do not hesitate to contact us.
+(that’s great now fill all this info out and send it back.)
+you will then get an email like this if you choose an unlocked cpu that i did.
+
+http://i951.photobucket.com/albums/ad354/marvelgk/1.png
+
+I would not choose and unlocked one unless you don’t mind waiting 3 days for approval.
+Next email will be like this.
+
+http://i951.photobucket.com/albums/ad354/marvelgk/2.png
+
+After sending your POP I used the amazon one worked great you will get an email back
+saying he/she needs shipment address and your done send that and wait.
+
+http://i951.photobucket.com/albums/ad354/marvelgk/3.png
+
+Not sure how long shipping is though :( but did get the tracking confirmation.
+
+
+This was a poorly written ebook and he did not offer support.

@@ -1,0 +1,16 @@
+Hey guys, as we don't have a kindle DX serial generator in Astro i decided to try some generating myself.So i am gonna show you how
+
+1.Get pids(i am gonna give you some ^^ ) - 
+B009A1A0 050400B6
+                                                           B009A1A0 13040576
+                                                            B009A1A0 12760709
+                                                            B009A1A0 042209E2
+
+2.As you can see the first numbers are the same and the last are different so you just go and change some while checking every each one in amazon. If your serial shows up invalid reverse the last number you've changed and put new one on another place, try to mix them up.
+
+3. Easy huh!?
+
+Maybe some of you will say " wut a nub thread "
+But some people don't know about it :) . 
+
+Cheerz

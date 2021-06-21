@@ -1,0 +1,6 @@
+> Method for Google Drive STORAGE
+
+1. go to https://td.fastio.me/
+2. Write a random storage name
+3. Write your google mail adress
+4. Select a random CH

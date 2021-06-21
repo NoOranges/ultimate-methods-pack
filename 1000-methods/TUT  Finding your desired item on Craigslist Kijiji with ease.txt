@@ -1,0 +1,11 @@
+This is a very simple tutorial on how to use a google dork. A dork will help narrow your searches to a more specific area.
+
+Not going to go into insane detail, but instead of switching between cities and countries trying to find someone selling your product, example being a blackberry playbook, just do this.
+
+
+1. www.google.com
+
+2. Search - "blackberry playbook site:craigslist.org" Without the quotation marks. 
+
+
+The "site:" is the google dork, and you can use another simple google search to find out even more of them. I first came across using google dorks when attempting to find SQLi vulnerable sites, to steal databases and credit card information. Google is a massive online tool, for free, at your finger tips. Learn how to use it!

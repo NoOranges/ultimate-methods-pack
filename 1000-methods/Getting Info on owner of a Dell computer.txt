@@ -1,0 +1,13 @@
+This method may not work for others but has worked for me in the past. The method is mainly for getting the original computer buyer's information. This method may get them to send you the proof of purchase.
+
+Steps:
+
+1. Call Dell with a serial. The number for Dell depends on your country.
+
+2. Tell the representative that you have lost your proof of purchase and you have deleted the proof of purchase       email/ lost your email account. They will ask for the serial. Give it to them.
+
+3. They may give you the buyer's info... it worked for me.
+
+4. SE the Dell computer with your own method using the the newly acquired info. (I have not done this and do not know if this is possible.)
+
+5. Profit.

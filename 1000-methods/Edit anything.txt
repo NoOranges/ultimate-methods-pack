@@ -1,0 +1,8 @@
+Not really a method but I use it an alot of my SE's.
+If you're using chrome. Make a bookmark. Name it anything you like but for the url put this: javascript:document.body.contentEditable='true'; document.designMode='on'; void 0
+Now whenever you're on a website and click that bookmark, the whole page will be editable.
+Example: http://gyazo.com/975862e4ca1024a257dba81f0c7f447a
+
+This can also be used to delete your info if you want to show someone an email. This way you dont have to open it in paint to scribble your name away. Its also possible to lie to other members with this and thats why I posted it in VIP since I trust you all to be grownups and dont use it to scam other members.
+
+I know most people know about this but I'm sure there are a couple who dont. I thaught this to some guys on skype so decided to post it here in case anyone didnt know about it. We expect people to know about boxing too but I still get questions everyday. Doesnt harm you if you already knew it right?

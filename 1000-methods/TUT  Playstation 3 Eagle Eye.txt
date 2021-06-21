@@ -1,0 +1,21 @@
+Hi,
+
+In this guide I will explain how to obtain an adapter for your PS3 which lets you use your mouse and keyboard to play games, its really useful for PC gamers that want to play FPS on their PS3.
+
+The Victim? Penguin United. Penguin United sell a product called the Eagle Eye, which lets you use your keyboard and mouse with the PS3. I believe they are a fairly small company but I may be wrong about this, the support team seems to be limited to a few employees so I don't see this method lasting long after I submit this guide.
+
+How to.
+
+Fill out a support form @ http://www.penguinunitedstore.com/pages/Contact-Us.html
+
+For the reason be creative, perhaps say the device doesn't recognize any keyboard and mouse you plug in, then go on to say you have checked if its supported and it is. Say you have a Razor mouse and keyboard because they seem to be supported with the Eagle Eye.
+
+You will get an email back with a few questions such as what firmware are you running, say when you try to plug the device into your computer nothing happens, so you cannot check what firmware its using.
+
+Answer all other emails related to troubleshooting the device, WARNING: be careful answering these questions, I found the employee would ask me trick questions. Think before you answer them!
+
+You should be asked for proof of purchase, I sent a faked Amazon receipt that worked fine. WARNING: Do NOT use Amazon itself as the vendor since they do not sell the product! Search for the product on Amazon and find a seller then copy that name onto the receipt.
+
+I believe there was a seller with Penguin United on amazon when I checked, do NOT use that seller since it could be the company you are trying to social engineer meaning they can check if the invoice is valid.
+
+Once you have sent the invoice you should get an email back asking for your postal address, give the information and enjoy!

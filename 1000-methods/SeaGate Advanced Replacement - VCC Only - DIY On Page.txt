@@ -1,0 +1,48 @@
+BEWARE
+" shipment has been delayed due to low inventory." I'd chill with this for a bit lol
+
+I recommend doing different HDDs
+
+
+
+
+
+I am aware this method has been talked about here and there, yet no detailed official method has been released.
+
+This is for VIP methods, do not move it to contributor/elite.
+
+I will also include the serial algorithm for the most expensive drives, the Seagate Cheetah drives ranging up to $500, unfortunately they do not sell any SSD's so we can't get those.
+
+It will require
+- Serial
+- VCC
+
+Serial Algorithm for Cheetah Drives 600GB 15000RPM
+- 6SL3YQXX - Replace XX with numbers
+Model Number: 9FN066-008
+This only works in the United States - That will only provide 99 serial numbers, if anyone wants to work on the rest of the algo feel free.
+
+Working VCCs
+- Powerfuls VCCs do not work - the same source as SlimSt
+- Entropay VCCs do not work.
+- SlimSt VCCs do not work - the same source as Powerful
+- Arbiters are said to work I dunno?
+- Other prepaid cards are not tested
+- Greendot VCCs work
+
+1. load up: http://support.seagate.com/customer/en-US/warranty_validation.jsp?form=1
+
+2. Fill out the model number and serial number
+
+3. On the next page select submit return
+
+4. then select advanced replacement(not the premium no need to waste $10)
+
+5. Continue and fill out info
+
+6. Fill out VCC
+
+7. Enjoy replacement
+
+
+Method by ColeTrain, no leaking to anywhere outside of AstroPid.

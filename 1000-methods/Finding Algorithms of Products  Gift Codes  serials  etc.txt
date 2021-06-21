@@ -1,0 +1,192 @@
+This post was created by KILLM3 of HackForums. His profile link can be found here: http://www.hackforums.net/member.php?action=profile&uid=491112 if you would like to thank him. The thread where he published this is here: http://www.hackforums.net/showthread.php?tid=2137268
+
+Please, enjoy!
+
+
+==============================================================
+
+
+The following is a write up on the exploits relating to Barcode algorithms, Giftcard algorithms, prediction of codes, and exploiting sweepstakes according to these codes.
+NOTE: Absolutely none of this information is meant for the purpose of forging credentials for free goods, as that falls under fraud and is ILLEGAL. You may notice that some descriptions will contain only information with no explanation of a realistic application. This write up is purely for education.
+This is not a tutorial, so please DO NOT actually attempt any of this.
+
+
+Barcode algorithms:
+To get a better understanding of Barcode algorithms please visit http://en.wikipedia.org/wiki/Universal_Product_Code
+For the sake of this thread, I will explain all that you need to know to understand all the information below in the simplest explanation possible.
+The most common form of Barcodes is the Universal Product Code(UPC).
+UPC is a barcode symbology, meaning that it symbolizes a string. A string, in this case, in 12 numbers.
+-The leading digit identifies the type of purpose the code serves.
+
+
+-For the next 10 digits, these are defined by variables from when the were generated (What machine generated them, time generated, number generated, location of machine, store, employee, etc...)
+
+
+-The 12th digit is a check digit. A check digit is a calculated modulo value which is influenced by all of the numbers before it. This digit is present because when the barcode is scanned, if the check digit doesn't match the rest of the value, then the scanner knows it didn't read the code correctly.
+In the UPC-A system, the check digit is calculated as follows:
+
+
+Add the digits in the odd-numbered positions (first, third, fifth, etc.) together and multiply by three.
+Add the digits in the even-numbered positions (second, fourth, sixth, etc.) to the result.
+Find the result modulo 10 (i.e. the remainder when divided by 10.. 10 goes into 58 5 times with 8 leftover).
+If the result is not zero, subtract the result from ten.
+For example, a UPC-A barcode (in this case, a UPC for a box of tissues) "03600029145X" where X is the check digit, X can be calculated by
+
+
+adding the odd-numbered digits (0 + 6 + 0 + 2 + 1 + 5 = 14),
+multiplying by three (14 × 3 = 42),
+adding the even-numbered digits (42 + (3 + 0 + 0 + 9 + 4) = 58),
+calculating modulo ten (58 mod 10 = 8),
+subtracting from ten (10 &#8722; 8 = 2).
+The check digit is thus 2.
+
+
+This should not be confused with the real numeral "X" which stands for a value of 10 in modulo 11.
+-http://en.wikipedia.org/wiki/Universal_Product_Code#Check_digits
+
+
+Here's some examples:
+(Kentuck Fried Chicken)
+http://imgur.com/tdo5t
+(California Tortilla)
+http://imgur.com/EFs35
+Leading digit 6 = Gift card
+Gift Cards are 16 digit codes (4 digit pin, doesn't effect check digit in position 12)
+
+
+(Giant Foodstore)
+http://imgur.com/pJkcQ
+Leading Digit 4 = Customer Loyalty Card (Can also sometimes be a 9, depending on how store credit is gained)
+
+
+(Hollister, A&F, GH, etc...)
+http://imgur.com/brnUK
+Leading digit 9 = Employee Card
+Employee Cards are 16 digit codes (4 digit pin, doesn't effect check digit in position 12)
+
+
+No information will be provided for practical application of this information for use with these companies or their partners.
+
+
+Gift Code Algorithms:
+
+
+Gift Codes are very similar to barcodes, but much harder to predict.
+They feature ASCII characters in strings of varying length. To understand how these codes work, let me explain from start to finish how most (There are always exceptions codes are created and redeemed.
+
+
+-First, a string is generated using variable from it's environment (Time generated, what source it will be sold through, number generated, machine number, etc...) These strings are almost never random because companies like to see which distributor sells the most, but in rare cases can be random.
+
+
+-Second, the code is distributed to stores and kiosks inactivated.
+
+
+-Third, when purchased from a store, the barcode is scanned to define the value loaded onto the card, then swiped in the card reader to activate the code. If the code is distributed via coinstar, any value between $5 - $20 can be assigned.
+
+
+-Fourth, the code is redeemed. The string is checked against the server and value is assigned to the account.
+
+
+EX: (All are used and retain no value)
+(iTunes)
+RFDJZJHXDSDN -- 12
+XMFPRXZTXJDN -- 12
+RCNLMCZZNGCZ -- 12
+WWTMHJPLDRGW -- 12
+ZWDJSDLNGLMJ -- 12
+BFDBBLSGCTGR -- 12
+MHDMWGGHGBHZ -- 12
+SZTJGNJGCBBP -- 12
+
+
+(Amazon)
+UAM8-WMRQYF-PGKE -- 14
+8YUH-Z2U9BU-D5S8 -- 14
+DP3N-6P7RV7-JWRR -- 14
+C3LP-GX8KME-JDX2 -- 14
+
+
+Weaknesses:
+Weakness #1:
+Strings are generated according to an algorithm that avoids collision. (Read http://en.wikipedia.org/wiki/MD6 if you want to know about why collisions must be avoided.)
+MD6 was submitted to the NIST SHA-3 competition. However, on July 1, 2009, Rivest posted a comment at NIST that MD6 is not yet ready to be a candidate for SHA-3 because of speed issues, a "gap in the proof that the submitted version of MD6 is resistant to differential attacks", and an inability to supply such a proof for a faster reduced-round version, although Rivest also stated at MD6 web site that it is not withdrawn formally. MD6 did not advance to the second round of the SHA-3 competition. In September 2011, a paper presenting an improved proof that MD6 and faster reduced-round versions are resistant to differential attacks was posted to the MD6 website.
+
+
+This is an example of how hard it is to create an algorithm without collision. MD5 actually has collisions, but only in extreme situations, so it is commonly used.
+
+
+The first weakness is being able to identify the algorithm used.
+Hyphens are sometimes flags of algorithms for UUID's or GUID's
+Gift codes are usually a modified version of V4 or V5 because the manufacturer can use position 15 in V4 with the values 8, 9, A, or B to identify the type of code being redeemed.
+Version 4 (random)
+Version 4 UUIDs use a scheme relying only on random numbers. This algorithm sets the version number as well as two reserved bits. All other bits are set using a random or pseudorandom data source. Version 4 UUIDs have the form xx-xxxx-4xxx-yxxx-xx where x is any hexadecimal digit and y is one of 8, 9, A, or B. e.g. f47ac10b-58cc-4372-a567-0e02b2c3d479.
+
+
+Version 5 (SHA-1 hash)
+Version 5 UUIDs use a scheme with SHA-1 hashing; otherwise it is the same idea as in version 3. RFC 4122 states that version 5 is preferred over version 3 name based UUIDs without giving a reason. Note that the 160 bit SHA-1 hash is truncated to 128 bits to make the length work out. An erratum addresses the example in appendix B of RFC 4122.
+-http://en.wikipedia.org/wiki/Universally_unique_identifier#Variants_and_versions
+Read more about UUID standards and algorithms from http://www.ietf.org/rfc/rfc4122.txt
+
+
+Weakness #2:
+If a code is not generated randomly, it is susceptible to what I like to call "Variable elimination".
+Let's say we are trying to break Amazon.com Gift Codes
+Have Person 1 at Coinstar kiosk #100
+Have Person 2 at Coinstar kiosk #101
+Have Person #1 call Person #2 and they both purchase a $5 code at the exact same time.
+Have both people wait one minute, then purchase a code each at the same time.
+
+
+What have we done?
+Well we have 4 codes. Two of them were purchased at the exact same time allowing for the time variable to become static for this situation.
+Person #1: 1st code + Person #2 1st code = static time, different kiosk
+Person #1: 1st code + Person #1 2nd code =  static kiosk, different time
+And so for Person #2
+We now have to sample of two isolated variables. Doing this tactic brings down the possible number of permutations to a low enough number that most of the time you can figure out the pattern by studying it for a few days, Allowing prediction of previous and future codes.
+
+
+Prediction of Codes:
+Not much to say here but explain that once you identify the barcode and use variable elimination(See pic)
+http://imgur.com/RObPx
+It's quite easy to make your own. Now go get a badass lego set!
+Other Weak Code Algorithms:
+(Local Car Wash)
+http://imgur.com/Q4US9 (The number 48 is repeated until it truncates at 5 digits.
+(Subway Free Cookie)
+http://imgur.com/xqlTu
+(PacSun 30% Off)
+http://imgur.com/mEwrU
+(iHop Free Pancakes)
+http://imgur.com/Zh7g2
+
+
+Exploit Sweepstakes Codes:
+Some of you may remember the Walgreen's exploit
+$3000 dollar sweepstakes
+http://imgur.com/f6rpI
+
+
+In 20/20 hindsight, the (*) digit I couldn't figure out was a check digit.
+
+
+Other Sweepstakes Code algorithms that are easily broken:
+(Target $5000)
+http://imgur.com/jfovk
+(Home Depot $5000)
+http://imgur.com/G4j41
+
+
+For these, just Register in 1st minute of hour with valid code and then DDOS for an hour or hit their registration.php with slowloris
+(Hollister Apple Macbook)
+http://imgur.com/3KLHn
+(AberCrombie & Fitch Apple MacBook Air)
+http://imgur.com/4VLjn
+
+
+Hope you enjoyed the read.
+
+
+====================================================
+
+
+Some of the code is jumbled because MyBB(HF) runs MyCode and VB(here) runs on BBCode.

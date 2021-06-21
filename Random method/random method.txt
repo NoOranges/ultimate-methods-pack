@@ -1,0 +1,15 @@
+1. Go to "https://www.stardock.com/products/deskscapes/"
+2. Download and Install Deskspaces
+3. Active the 30 Day Trial
+4. Just use the GIF you want and finish
+
+#### RESET DESKSPACES ####
+1. Press WIN+R at the same
+2. Write into it %programdata%
+3. Search for a Folder named "Stardock"
+4. Open the Folder
+5. Search for a Folder named "DeskScapes"
+6. Open it
+7. Delete "Cache.dat" and "License.sig"
+8. Restart the Programm and activate again the 30 Day Trial
+9. Use a tempmail "https://temp-mail.org/"

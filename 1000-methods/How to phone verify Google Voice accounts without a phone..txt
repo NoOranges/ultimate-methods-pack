@@ -1,0 +1,62 @@
+Okay, so first off, I know this isn't a guide to SEing. But I don't really have a guide for SEing, as I only have done companies that everyone has over-done already, like Amazon or Microsoft. Phone verification is something I know how to do though so I figured I'd share.
+
+One thing that I typically use in any SE, regardless of whether I think the company will actually call me or not, is a Google Voice number. It's very useful since you can record your own voice mail greeting and receive SMS, and even record calls. It works just like a real phone.
+
+This will be completely cross platform and require only one thing, Flash Player. You can actually use any SIP softphone you want, but I chose to base this guide around web services for compatibility.
+
+So, we're going to be using 3 services together to give us a phone number that can receive calls like a normal phone.
+http://www.voipbuster.com/ - Voipbuster, a free SIP VOIP service that can receive and place calls via SIP.
+http://www.ipkall.com/ - IPKall, a free service that gives you a phone number that forwards to any SIP account. Without this, you can't receive calls from normal phones to a SIP service like Voipbuster.
+http://flaphone.com/ - Flaphone, a free SIP softphone hosted online, running on Flash. There's also an Adobe AIR application if you prefer to not use the website.
+
+Now I'll be running through what you need to do to setup each service.
+
+1. Voipbuster. It is easiest to do this one first since you need to setup the other two services around it, so let's get it out of the way.
+
+Alright, first we're going to get an account. Normally they want you to download an application for Mac or Windows to setup an account, but it's easier to use the web signup here: https://www.voipbuster.com/en/websignup.php
+
+You will need to remember your username and password, they're needed for the other two services. 
+Valid email is also required.
+
+Also, last time I used this, I had a problem with calls until I confirmed my email. Just to be sure to cover everything, confirm your email before proceeding.
+You will get an email from donotreply@voipbuster.com with the subject VoipBuster account details be sure to open that and click the first link to confirm. It should then tell you that your account has been verified.
+
+2. Flaphone. This is the phone that connects to VoipBuster's SIP. We need this as our controller to actually place or receive calls.
+
+Go to http://flaphone.com/ and make sure to allow the flash object in the center of the page to load if necessary. Click Registration on the top. Fill out the required fields here, they do not need to be the same as VoipBuster.
+
+Valid email is required.
+
+Now go to your email and find flaphone's verification email. Verify your account, go back to flaphone and login.
+
+Once you are logged in, click Menu and then SIP Settings in the sidebar. You will want to add an account. This is where you type in the same details you used on VoipBuster. You want to be sure to check the Register box and use the correct password as well. This will register you on the network so you can place AND receive calls.
+
+Now save that account, and exit out of the SIP Settings screen. You'll be back at the dialer, at the top, click the drop down, and select the account you just created. It should say registering... Unfortunately, flaphone doesn't update the registration immediately. You'll want to click the power button in the top right corner to log out. Then log back in. If everything was correct, it will say Registered Successfully.
+
+3. IPKall. At this point, you can place calls through VoipBuster's SIP network using Flaphone as your softphone. You can receive calls too as long as they come from the SIP network, but that doesn't help does it? This will assign a phone number so we can receive calls from the public phone network.
+
+Go to http://phone.ipkall.com/ so that we can signup and obtain a number. Here are the details you must use:
+
+Account Type: SIP
+Area Code: (Your choice)
+SIP Username: (Same that you used on VoipBuster)
+Hostname/IP: sip.voipbuster.com
+
+For this, you will also need a vaild email. Your phone number is sent to your email.
+
+Now, check your email and you should see that your IPKall phone number has been sent to you. Assuming that your details were all correct, this number can now be called, the call will be forwarded into VoipBuster's SIP network, and can be answered on flaphone.
+
+4. Verifying on Google Voice.
+
+I'll assume you know how to go through GV's registration process and get to the phone verification step. All you need to do now is make sure that you're signed into flaphone and your account indicates that it is Registered Successfully. 
+
+Leave your flaphone open, type in the IPKall phone number to Google Voice, and continue. You'll be given a code to enter on the phone and receive a call shortly. 
+
+Switch to flaphone and wait for the popup. Click Yes to answer the call. Then click the number it gave you on the onscreen keypad, which will produce the standard tones. After this, your account is activated. I like to go and record a voicemail greeting, so if a company calls that number, they don't hear the Google Voice default message.
+
+I also recommend going to the Google Voice settings, unchecking the IPKall phone number, and checking Google Talk. Then, if you open Gmail, and install the Google talk plugin, you can receive calls through Gmail. You can also leave your setup as it is, and receive calls whenever you have flaphone open. Keep in mind though, your IPKall phone number expires if it is not used in 30 days.
+
+
+
+
+Well I know you all would probably much rather see a guide for SEing an Alienware, or a Kindle Fire without using a VCC (I know how to do this, I'd post it in Contributor if I had access), but I hope this helped anyways. If something is unclear, please tell me and I'll try to clarify it. If you need help, don't hesitate to ask.

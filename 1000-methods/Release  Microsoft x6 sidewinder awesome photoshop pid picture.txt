@@ -1,0 +1,16 @@
+Here is my release of my x6 keyboard photoshop ! Comes with instructions about how to make your PID look legit and everything on the keyboard itself. I used this for my own keyboard! I thought I might as well release it.
+
+In some cases, your pid might be INVALID and they'll ask you for a picture + a receipt. Get your own receipt now :)
+
+Requirements:
+A brain
+Common Sense
+Knowledge of how to use photoshop
+
+I will not spoon feed you how to use photoshop ! Enjoy ~
+
+Example:
+http://desmond.imageshack.us/Himg171/scaled.php?server=171&filename=exampleli.jpg&res=medium
+
+Download Link - http://tinyurl.com/x6photoshop
+I used photoshop CS3 for this.

@@ -1,0 +1,124 @@
+Hello everybody :) Since a very noob in this, well there will be always more experimented people o more noob ^_^ Its very very easy, is just emailing and is, of course, microsoft . so here we go:
+
+1-First Of course will need a valid Sidewinder x6 Serial...Find it yourself :) later i will give 1..
+
+2- Go to this website: http://support.microsoft.com/select/Default.aspx?target=assistance&sd=hdwr&oaspstatus=complete
+and type: "Sidewinder X6 Keyboard".
+
+3- Paste/Type your serial and press "Continue".
+
+4- Choose "Don&#8217;t use a professional support license/contract (charges may apply) " and Press "Continue".
+
+5-Then Choose "1 Business Day" and Press "Continue".
+
+6-Now you have to tell they that your keyboard isnt working, just sound normal xD and some tips are like:
+
+-YOu have tested it in different PC.
+-Keys doesnt work.
+
+Thats the common, because that will answer the most common question.
+
+Just select a OS and press "continue"
+
+7-   Fill all the info and Send it!!!
+Now wait for a few of hours or for the next day :)
+
+8-Depending of the represent they may want a receipt and a photo with the PID. like this email:
+ 
+
+Thank you for contacting Microsoft PC Hardware Technical Support.   
+
+ 
+
+My name is ****** and I would help you with SideWinder X6 Keyboard issue.   
+
+ 
+
+According to your description I understand that, keyboard does not work as expected and you have tried it on different computer with no success. Please let me know if this information is accurate.
+
+ 
+
+I understand the inconvenience you are experiencing. Please be assured that I will try my best to help you resolve the issue.
+
+ 
+
+Carlos, to provide you the replacement and set the warranty date, you must provide a copy of the purchase receipt which clearly indicates the date of sale and the name and address of the store from which the device was purchased, as well as the screenshot of back of the keyboard showing the Serial Number as well as the Product ID (P/N). 
+
+Note: The following items are unacceptable items as proof of purchase: Text documents, Bank or credit card statements, hand-written receipts, and statement from eBay, Amazon Marketplace, or other non-retail forms of evidence.
+
+You can send your proof of purchase and the screenshot of back of the keyboard displaying the Product and Serial Number by simply responding to this email with the items requested. Please follow the instructions below:
+
+1. If you have access to a scanner, scan the receipt. You can also use the camera on your mobile phone or a standard digital camera to take a picture of the receipt as well as the back of your keyboard where the PID is listed. Both the receipt and the screenshot of the back of your keyboard are required and the numbers must be clear on files. If you purchased online, a screenshot of the receipt will suffice.
+
+2. Respond directly to this email, including your attachments (the purchase receipt file as well as screenshots). Please note that you must respond to this email for us to proceed with warranty validation. If you do not use the reply option to this email we will be unable to relate your response to your service request and your resolution will be delayed.
+
+3. With the information also include the Product ID (P/N) located on the bottom of the device.
+
+4. Ensure the file (attachment) is less than 1 megabyte in size. If your file is larger, your mail may be rejected by our system.
+
+5. Send your attachment in JPG, GIF, or TIF format. This minimizes the file size, and also ensures that we can open your file successfully.
+
+We will monitor your service request for your response. If we do not receive a response within ten (10) business days, we assume that you no longer need help and the incident will be closed.
+
+Should you have any other questions or if you need further assistance regarding this issue, please do not hesitate to contact us again by replying directly to this e-mail.
+
+ 
+
+Thank you for contacting Microsoft Hardware Technical Support. Have a nice day.
+
+  
+
+Regards, 
+
+In this case just said that someone gave you the keyboard as a gift or something like that, and for the photo you can use the PSD attached (I've used ir and works  )
+
+
+Or they will ask for the address directly in that case just tell to they... 
+
+6-Then you will receive an email like this:
+
+ Microsoft Order in Process -- Order Number:
+
+**********************************
+Please keep this e-mail for your records.
+**********************************
+
+Microsoft has received your order, and it is being processed.
+
+Order Date: 09/12/2011
+
+Ship-To:
+
+Following is a list of the items in your order:
+
+Part Number:  AGB-00001
+Product Name:  Sidewinder X6 Kybrd Win USB Port English NA Hdwr CD
+Qty:  1
+Unit Price:  0.00
+Item Total:  0.00
+
+Subtotal:   0.00
+Shipping:  0.00
+Tax:  0.00
+Total:  0.00 USD
+(USD = US Dollar)
+
+Now just wait and ??? Profit...
+
+Pictures later if u want it, i know is very easy but i want to post for the forum, Thanks and sorry for english xD i speak spanish ;)
+
+Well not attached:
+http://www.mediafire.com/?1952v9whkeznxla
+
+PIDs By bony, thanks mate: 
+
+00571-545-1184707-00411
+00571-545-1406334-01693
+00571-545-1406566-01450
+00571-545-0267785-00982
+00571-545-1694967-00345
+
+00571-545-1884185-00173
+00571-545-0338914-00394
+00571-545-0136713-01941
+00571-545-1127406-00966 

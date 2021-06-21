@@ -1,0 +1,21 @@
+So as we all know, Roku got raped. Hard. I SE'd probably 20+ Roku 2 XD's, 3 to myself, the rest as a service, and many others did as well.
+
+Roku patched their live support fairly well (Although I've still been able to get past them), so I've devised a new method (:
+
+This is NOT for a roku system itself, but for a gaming remote.
+The game remotes can sell for around $50 if you have a good place, ebay, craigslist, w/e.
+
+They patched their live chat service for the systems, but not for the remotes.
+
+Navigate to:
+http://support.roku.com/home
+
+Select "All Products".
+
+Scroll Down, select "Live Chat" (red button)
+
+And simply weave your story, you can do the most basic which is that it doesn't recognize your device, or you can make one more complex like battery leakage or broken in some way.
+
+NOTE: They may ask for your Roku PID, you can use Astro Pid for that, like you would in the past for an actual system.
+
+There isn't a HUGE market for these remotes, but if someone owns a Roku and theirs breaks, you can make a decent profit considering the little time it takes to get them.

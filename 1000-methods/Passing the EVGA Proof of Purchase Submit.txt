@@ -1,0 +1,22 @@
+Introduction:
+
+It has been brought to my attention that people could not submit faked proof of purchase's (POP's) for the EVGA EAR Program. A fellow member, @gbatemper , informed me that i just got "lucky" when my POP was approved even though it was faked. However, I have gotten it approved twice and I THINK this is why:
+
+Method to get POP passed:
+
+1. Do NOT submit a POP when registering the serial. Instead put place of purchase as GIFT.
+
+2. After buying EVGA EAR service and you submit an RMA and what not, they will ask you for a POP.
+
+3. Do NOT submit anything yet.
+
+4. Contact EVGA Tech support (not EVGA RMA department) and tell them it was gift. They will tell you a POP is a must and to ask the gift giver to send you the receipt. 
+
+5. Now upload a forged receipt. IMMEDIATELY email EVGA Tech Support and ask them to verify the receipt. They will approve it and approve the RMA and send you a new GPU.
+
+Conclusion:
+
+Well that's how I got my receipt to work, even though it was faked. 
+
+Tips:
+When EVGA says that they will report you to authorities, for fake receipts, ignore that bullshit. The first time, I have uploaded a fake receipt and tried to get the RMA department to verify it and they said it was fake and they then gave me another chance to upload another receipt, which was also faked and which was the one I asked the Tech support to verify.

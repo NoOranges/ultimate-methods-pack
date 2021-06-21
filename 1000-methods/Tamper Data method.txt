@@ -1,0 +1,29 @@
+This should be know by a few already its not terribly hard at all.
+
+First of all I would recommend you only do this for online/virtual goods.
+Use some sort of instant payment method like pre loaded vcc or pp with fake information.
+use all fake information.
+I would use a vpn or something along those lines. 
+
+steps
+1. download firefox http://www.mozilla.org/en-US/
+2. install tamper data https://addons.mozilla.org/en-us/firefox/addon/tamper-data/
+3. find a small vulnerable website 
+
+How to use tamper data 
+
+Goto website, then go to tools at the top and start tamper data.
+Refresh the website
+click add to cart
+a little window will and click tamper, you might have to click a few times.
+edit the value to how you want to 
+finish tampering and stop tamper.
+
+checkout with instant payment method.
+
+
+receive goods via email.
+
+http://i.imgur.com/mlKXTK0.png
+http://i.imgur.com/uWyW0ve.png
+http://i.imgur.com/snUu09R.png

@@ -1,0 +1,13 @@
+Here's how it goes ,
+
+If you want to "SE" an item from a certain company and you'll need an Drop Address and you don't have one .
+
+Let say your real address is : "100 Washington Plaza 98"
+   and your fake address is : "1772 Washington Plaza 98"
+
+First contact the company and if they want to send a replacement to your address , give them an "Invalid Address (Fake Address)" 
+And wait for approx 1 week for the delivery to be delivered to the "Invalid Address (Fake Address) , call up the courier that was suppose to delivery the parcel give them your tracking number , tell them when you track the item on the website they said invalid address and they'll ask for your name and ask what was your address , tell them your "Invalid Address (Fake Address)" and tell them "Could it be the reason that I've shifted my house not long ago ?" And she will probably ask you for your "New Address (Real Address)" , and they'll re-ship it to your new address instead of the Fake address . And somehow there's a fee of 10$ to change the address , and also i somehow bypass the fee for it .. 
+
+Most probably the courier service Rep wouldn't update your new address to your shipper * 
+
+Note : I've tried it and it works .

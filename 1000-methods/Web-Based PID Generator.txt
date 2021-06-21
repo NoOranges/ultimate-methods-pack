@@ -1,0 +1,13 @@
+Herro ferrow Asians,
+
+I'm working on an online PID generator (like astropid, but online)
+currently I only have the PS vita serial & model algorithm.
+(from http://astropid.com/forums/showthrea...hm-DO-NOT-LEAK)
+
+The URL is http://www.jillescode.com/pid/
+
+Also, if you'd like other serials to be generated, just send me the algo, I'll make it webbased!
+
+- JillesCode
+
+PS: I am not asian.

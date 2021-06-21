@@ -1,0 +1,37 @@
+This is an easy and well known method but as it's not here I might as well post it. This is super easy to do and is great if you don't like calling.
+
+1. First go to http://www.logitech.com and sign up (you don't have to give your exact address here, just give a rough area and give a fake number so you can carry on making new accounts).
+
+2. Now go to support > product support and find the product you want (In this tut I'll show you how to get a M505 mouse)
+
+3. When you have found your product, click on the "Contact Us" tab (see below).
+http://i.imgur.com/8T25H.png
+
+3. You will be told to log in with your username and password if you aren't already.
+
+4. You will see a form that needs to be filled in. Use these details:
+M/N: M-RBY125
+P/N: 810-001284
+PID: Generate one using AstroPID
+
+Use your own info to fill in the rest. For the subject say "Problem with my M505 mouse" and for the excuse say something like "I was casually using the pc when the mouse stopped working." (You may want to vary the excuse to make it more believable). 
+
+A few tips from DIGGOO to avoid many emails after filling the form...
+
+- The product has never worked
+- You got it as gift, therefore you don't have a receipt
+- You have tried the product on several computers
+
+To speed up the process and to save having to send two extra support mails I usually add in that "I've tested it on a friends pc and it still didn't work" and "I've installed the latest drivers" and "I brought it back to the store where I purchased it, they refused to refund me and told me to contact you".
+
+http://i.imgur.com/n62p2.png
+
+5. Send the support request, within 48 hours you should receive an email asking for your shipping address and number, you need to give your real details here or a drop's info or an email asking you to ask the retailer etc. Just keep responding and they will eventually ask for your address.
+
+6. ?????
+
+7. Profit !!!
+
+Works worldwide and please don't leak to other sites even though it's well known.
+
+Don't be afraid to ask for help and don't forget to give feedback !!!

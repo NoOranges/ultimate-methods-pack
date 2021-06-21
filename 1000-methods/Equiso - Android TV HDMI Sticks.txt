@@ -1,0 +1,21 @@
+Woah, guys. Not too fast!
+
+Don't saturate companies by thinking too fast! Think again and wait!
+
+
+
+
+Introduction
+Equiso is a company who makes low-powered streaming smart sticks running Android. The company has been criticised for potentially rebranding low-spec Chinese Android TV Sticks. Due to their lack of transparency and often faulty products, this gives them vulnerability to a social engineering attack. That's where we come in.
+
+Method
+
+Initiate contact with Equiso - http://support.equiso.com/anonymous_requests/new
+Complain about their product.
+Go through a (possibly extensive) communication process via email.
+Receive your product.
+Factory reset it and erase everything if the box is open; they may open the box for testing the replacement before sending it to you I don't trust them when they say that.
+
+
+Evaluation
+Simple method. Mediocre TV sticks, but stick an SD in and you can download movies for your TV while the TV's off using BitTorrent (it uses an external power adapter).

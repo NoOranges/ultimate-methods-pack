@@ -1,0 +1,8 @@
+Newkinetix is an electronics company that makes the "Re iPhone remote" The Re is basically a dongle that when plugged into your iThing, (iPad, iPod touch, iPhone) you are given the ability to control most entertainment devices. It's basically a universal remote for your iThing. 
+
+Method:
+The SE is pretty simple, make up a reason as to why the remote is no longer communicating with the iThing or TV. The customer service reps will go through basic troubleshooting steps, this will take an email or two. At the end, you'll be asked for a receipt. They don't verify the receipts, so you can use a generated Amazon receipt.
+
+They don't ask for a VCC and they don't bill.
+
+http://imageshack.us/a/img819/5687/photo2nsn.jpg

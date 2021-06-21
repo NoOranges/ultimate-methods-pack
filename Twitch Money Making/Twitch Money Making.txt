@@ -1,0 +1,51 @@
+So I will share my "private" method with you on how to get around 300$ - 2000$ a month depending on how much time you invest.
+
+Make profit now that we can!
+
+How does this work:
+
+1. Use a program to check for valid Twitch accounts.
+2. Check if one of those Twitch Accounts has "Twitch Prime".
+3. Use the cracked Twitch Prime account and sub to your channel.
+4. Claim the money...
+
+ 
+
+What you will need:
+
+1. One working Twitch Account
+2.Snipr or Open Bullet or Both
+3. Twitch Config forSnipr or Open Bullet
+3. A good Proxy Scraper / Checker (If you don't haveSnipr)
+
+ 
+
+Set Up:
+
+1. First, create your own Twitch Account here: https://www.twitch.tv/signup.
+2. After that, download Open Bullet or buySnipr (I prefer Snipr but if you don't have money just use Open Bullet):
+     > Open Bullet: https://www.mediafir..._1.2.0.zip/file (free)
+     > Snipr: https://info.snipr.gg/ (20$ you don't necessarily need that)
+3. Now Download those Twitch Configs for Snipr and Open Bullet: https://www.mediafir...aseult.zip/file
+4. At least download this proxy checker if you don't have snipr. Don't use the Open Bullet proxy Checker, it is slow and really bad: https://www.mediafir...oxy Checker.zip
+
+ 
+
+Let's Start:
+
+1. Start Snipr or Open Bullet and import the associated config.
+2. Use the Proxy Leecheer in Snipr or use the Downloaded CMD Proxy Checker/Leecher to scrape some proxies.
+3. Check those proxies with the Snipr Proxy Checker (250 threads / HTTPS) or with the CMD Proxy Checker (9000ms / 250 threads / HTTPS).
+      > You should have above 5000 working proxies now. If not, check some more proxies until you reach around 5000.
+4. Search for Gaming Combos or HQ combos, something that has been leaked recently.
+5. Start the Account Checker inSnipr or Open Bullet. If you have both programs, check the combo first with Snipr because it is faster than Open Bullet and after that check those
+valid accounts with Open Bullet since it gives you more informations about the Prime status and Bits the cracked account has.
+
+6. Now you need Affiliate for your Twitch Account: https://help.twitch....ng...uage=en_US
+> Stream 500 minutes in 30 days (should be easy)
+> Stream at 7 times at different days (also easy)
+> Have an average of 3 concurrent viewers or more over the last 30 days (If you are not able to do that download this program: https://anonfile.com...witchV2.0.2_rar
+> At least 50 Followers (also easy after you botted all those accounts and followed yourself with it)
+7. Now just subscribe to yourself with the cracked Twitch Prime accounts and make some profit.
+
+

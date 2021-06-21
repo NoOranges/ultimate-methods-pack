@@ -1,0 +1,46 @@
+ Not my TUT just took it off another site that leeched our stuff :)
+
+
+First off I want to say that this is a graphics tutorial but it leans more on the Social Engineering side of things. 
+
+
+In this tutorial you will be learning a way to provide exactly what the Customer Service Representative requests.
+
+
+Requirements
+
+A camera
+Black pen
+A piece of paper
+Adobe Photoshop
+Ability to read and follow directions
+
+
+
+Step 1: Obtaining your proof
+SE a seller into providing you a picture of the receipt, Item your SEing, and a piece of paper with your name on it (or what ever you need). This can be done by simply messaging sellers from eBay or Craigslist asking for the same thing. Asking more than one seller increases your chances of getting the picture that you need from them. Heres a template on what to say when you go about getting this. In this reply I was going for a pic of Battlefield 3 for the Xbox 360. Change it up for what ever you are trying to get.
+
+
+I got a reply with the picture: HERE
+
+
+Step 2: Remove the words on the paper for the next step
+Removing the words isn't very hard if you got a high quality picture. Simply use the patch tool and circle the area where the words are. Now move the selected path to a clean part of the paper. More detail on how to use the patch tool can be seen in this video tutorial: HERE
+
+
+I ended up with my edited picture looking like this: HERE
+
+
+Step 3: SE an item and get the information you need to place on the paper
+Now that you have made it this far it is time to get what your Rep is asking on that paper. Now we don't want to find some cheesy font to make it look like we wrote on the paper, we want to actually write on a paper. Take your black pen and write what ever you need to on a blank paper (preferably white). Now we want to take a picture of it and sync it to our computer.
+
+
+Step 4: Edit the picture of what you wrote
+Ok now that you have taken the picture it is time to edit it. Make sure your picture shows mostly one solid color in the area where your text is located. It will come in handy when using the magic eraser tool to get rid of the paper. Heres what I got: HERE
+
+
+Step 5: Pasting your writing into the picture
+Now after you have extracted your text from your photo and have erased any dirty pixels, it is time to copy and paste your text into the actual photo. After you have pasted the photo onto the paper, resize it if needed. Now it is all about experimenting, I have added a linear burn and lowered the opacity to 71% (your experimenting may differ). You should get something ilke this: HERE
+
+
+There all done! you have a very legitimate looking picture that shouldn't have any problems passing a service rep. Enjoy :cool:

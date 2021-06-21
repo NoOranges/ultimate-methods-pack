@@ -1,0 +1,34 @@
+Hello guys ,
+
+
+I m going to give you guys this algorithm for Google Nexus 7 PID . As  this is my first tutorial about my algo forgive me if anything is wrong .  I know ASTROPID have this algo nonetheless but wanted to share it to  get myself some HQ member here ...
+
+Basically this Nexus 7 Serial made of 12 alpha numeric thingy
+
+First letter          - "C" 
+
+Second letter      -  Random digt from 1-9
+
+"8","6" etc (BTW I came across 8,6 mostly in many of them ).
+                            Had 2 different serials from USA and UK so lets hope 
+                            8- USA.
+                            6- UK.
+
+Third letter         - zero (0)
+
+4th,5th and 6th   - "KBC"
+
+Remaining  6-12  - Random Digits resp ..
+
+So here is all together ..
+
+C60KBC829262 (UK)
+C80KBC105847 (USA)
+C80KBC161518  (USA)
+
+Another serial : C50XBCnnnnnn  (Thanks SuperMario)
+
+
+I have pics which contains S/N bar-code etc will give to members who I like PM me with something ..
+
+Hope you enjoy this guys and need some help about this SE would be kind if anyone would help ..

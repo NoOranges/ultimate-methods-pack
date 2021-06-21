@@ -1,0 +1,30 @@
+Hi AstroPid 
+
+As Some of you may know Dropbox gives its Galaxy S3 users 50gb free storage. Well now all android phones can get this.
+
+
+To enable this free Galaxy S3 48GB of Dropbox cloud storage, your phone must rooted. Then you can install CWM S3 Dbox zip via CWM recovery Method or use root explorer to install the Apk file.
+
+
+If you already have Dropbox installed already, Force close and uninstall it from Settings > Applications > Manage Applications > Dropbox then reboot
+
+
+Method 1: install CWM S3 Dbox zip via CWM recovery
+Download CWM S3 Dbox zip file and then paste into your Android Phone Sd Card.
+
+
+Method 2: Install Dropbox apk and system file via root explorer
+Download CWM S3 Dbox zip file and unzip this file. Then add the files to the right folders:
+system/app/Dropbox.apk
+system/app/DropboxOOBE.apk
+system/framework/com.dropboxpartner.jar
+
+
+After those files are installed, you can use your existing dropbox to upgrade storage or create a new one. You won't recieve the 50gb until 5 steps are done on the Get Started Page
+
+Required Files
+
+https://www.dropbox.com/s/40rtbf97uxtqbod/CWM-S3-Dbox.rar?m
+https://www.dropbox.com/s/6rdspjxc6gdgmj8/Root_Explorer_v2.20.apk
+
+I hope people like this 

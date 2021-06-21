@@ -1,0 +1,25 @@
+Welcome to my tutorial on how to SE Logitech for a HD Webcam Pro C910
+
+First of all generate a PID with the program or use one of your own if you have one. Then open notepad, then copy & paste the PID there for later. Now we need to get the model number which can be found here:
+
+http://www.amazon.co.uk/Logitech-HD-Pro-Webcam-C910/dp/B003SDDR7Y/ref=sr_1_2?s=electronics&ie=UTF8&qid=1321373965&sr=1-2
+
+Then we will need a receipt, you can use amazon receipt generator for this. So go ahead and generate a receipt.
+NOTE: MAKE SURE YOU GO BACK AT LEAST ONE MONTH FROM TODAY'S DATE! ! !
+
+Now we have a PID, M/N, P/N & an generated amazon receipt. So now you can head over here:
+http://logitech-en-emea.custhelp.com/app/ask
+
+Make an account if you need to, then enter the info requested and come up with a good reason as to why your webcam is faulty and needs replacing. 
+
+You should then recieve an email like this: 236
+
+Just reply with the requested data. Then the next email should be something like this 237
+
+Just reply with you information once again then they will email you this: 238
+
+:D Profit!!! 
+
+Proof: http://i.imgur.com/G6tKK.jpg
+
+Note: This is my first tutorial on AstroPID so please don't leech this method on other forums, this was all written and produced by me inc3pti0n.

@@ -1,0 +1,17 @@
+Item: http://www.tylt.com/powerplant/
+
+1. Come up with a reason why the device has an issue.
+
+2. They'll ask where you got it from, I said Amazon.
+
+2a. They'll ask to tell Amazon to replace it, tell them Amazon denied you
+
+
+3. They'll then ask for your address and receipt.
+
+4. After basic troubleshooting they may or may not say "we will send you a replacement but we will need the defective unit back for testing purposes."
+
+5. If they say they want it back, use generic excuse for advanced replacement.
+6. They'll send it out, w/ out asking for a vcc
+
+

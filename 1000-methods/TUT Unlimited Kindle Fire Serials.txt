@@ -1,0 +1,8 @@
+So you have one working serial
+EX: D01E B0A0 1472 1GJ8
+
+Can simply change the last 8 digits. I wont give you the alg but experiment with different numbers letters. Some letters can be replaced with numbers.
+
+
+Little demo: 
+http://i951.photobucket.com/albums/ad354/marvelgk/Untitled-28.gif

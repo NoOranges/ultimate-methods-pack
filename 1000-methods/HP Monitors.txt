@@ -1,0 +1,52 @@
+Social-Engineering Warnings about Company:
+
+You will receive bills through the door, that is why it is best to use drop addresses, however the bills can be ignored, and they will not pursue them any further, you can also call back, and say a technician/engineer/courier already picked up the other monitor.
+
+General Information about Company:
+
+HP(Hewlett & Packard) sell expensive electronics, and monitors which can range into the 2K+ range.
+
+Company Contact Information:
+
+1-800-474-6836 Home
+
+1-800-334-5144 Business both work
+
+
+General Method for Company:
+
+1. Call them up and try to get to the business monitors support, if you have trouble, just keep entering or saying the wrong thing eventually you get the directory people and they will manually put you through to the business monitors support.
+
+2. Give them a serial 
+
+
+Model: LP2480ZX
+Product Number: GV546A4
+Base serial: 3CM830017J - Found on EBAY change the last letter / numbers/ letters around to find a working serial
+
+Working serials below:
+3CM830017P
+3CM830017Q
+3CM830017V --- THESE WILL HAVE BEEN USED UP ALREADY SO BE CAREFUL WHEN USING - HOWEVER HP DOES NOT LOG EACH SERIAL!
+
+Check serials here: http://h10025.www1.hp.com/ewfrf/wc/weInput?cc=us&lc=en
+Use this image for anything else: http://i.ebayimg.com/t/HP-DreamColor-LP2480zx-FLAT-PANEL-MONITOR-w-CABLES-nice-Product-GV546A-/00/s/MTIwMFgxNjAw/$(KGrHqVHJCME63(5Ety5BO4jQN5Sug~~60_12.JPG
+
+
+ here are some base serials for HP ZR30W monitors (30" monitor yet cheaper than the 24" lol):
+CN41020QSR
+CN41041CQY
+CN42070MGB
+CN42070MGS
+CN42070MGR
+CN42070MBM
+CN42070MC7
+
+Product number: VM617A4
+
+All of these have been used as well but you can just take a serial and replace the last letter/number with a letter/number. 
+
+3. Say not working, no power etc and they will say try multiple cables and sockets, say you done that and still not working, they will offer advanced replacement.
+
+4. Enjoy your monitor
+

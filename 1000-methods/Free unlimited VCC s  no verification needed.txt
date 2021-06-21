@@ -1,0 +1,13 @@
+I may be moving this to Regular methods in a few days, so enjoy it now!
+
+1. Go to https://bancore.com/rw/pages/b2c/index.en.do and press "Sign up and get a free Visa!".
+2. When it asks for a phone number, enter some random number in your area that doesn't work or one in another country it doesn't really matter
+3. Go back to the main page and press "Forgot PIN"
+4. Enter the phone number you put in, it will then  ask for your email
+5. Check your email for the link, then reset the PIN to your liking.
+6. Enter random or real info if you like for your profile
+7. You should be on a page like this now: http://i.imgur.com/Avgp2TB.png
+7. Congratulations! You just got a free VCC!
+8. Repeat as needed
+
+Remember the phone number you entered as it is needed to log in

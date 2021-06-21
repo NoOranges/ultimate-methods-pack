@@ -1,0 +1,42 @@
+I'll do my best to keep this as simple as possible for people who aren't very good at photoshop :)
+
+First off, get your receipt. I'm using a generated one from HERE but you can easily utilize this for real receipts.
+
+Before we start, I'll explain what we're going to do. When companies ask for receipts, they verify the digital ones (most of the time), so that can be a problem. Most people are starting to use physical receipts as an alternative, but people miss out basic flaws with their technique;
+
+How did your receipt become a photo on your pc? Presumably, if you actually owned the receipt, you'd scan it. Only problem is, a jpg from the generator, for example, doesn't exactly look scanned. 
+
+Of course, you could simply just print off the photo and scan it, but if you don't own a scanner, you could always do this :)
+
+1) copy and past the receipt into photoshop. If you're using the website above, make sure to crop out the watermark thing.
+
+http://img857.imageshack.us/img857/9753/24204913.jpg
+
+Make another copy of your current photo by pressing CTRL+A, CTRL+C and CTRL+V.
+
+2) Click on the top layer with the picture on it. We need to make this look lower quality. We can do this by clicking on the top toolbar, where it says "Image". Click on Adjustments and then click on desaturate 
+
+NOTE: You can also do this by pressing SHIFT+CTRL+U
+
+http://img402.imageshack.us/img402/6659/21973330.jpg
+
+3) We need to add a tiny bit of blur to the, newly desaturated photo. 
+Simply do this by clicking on "Filter", "Blur" and then "Gaussian Blur". You can toy around this to you're happy with it, but on my photo I used 0.9 radius 
+
+4) Finally, drag the original, unsaturated photo of the receipt above the blurred layer in your layers taskbar, so that it is the top layer. 
+
+Make sure you've selected the top layer (it will be highlighted like below) and change the Layer style to Color burn. 
+http://img405.imageshack.us/img405/5515/blendbv.jpg
+
+
+Final product: http://img5.imageshack.us/img5/6001/78404502.jpg
+
+This method makes things look a lot more like they've been scanned, and boosts the probability of it being accepted by companies!
+
+Of course, if you don't own photoshop, or just want some help, feel free to PM me, I'll do my best to answer your questions or do requests as fast as possible :)
+
+Hope I've helped
+
+
+
+

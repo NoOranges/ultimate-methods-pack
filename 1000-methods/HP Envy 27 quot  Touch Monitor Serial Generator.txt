@@ -1,0 +1,18 @@
+The generator is coded in php. Read the comment to figure out how to use it.
+
+I coded this when I was high just for fun if anyone plans on boxing this will be handy since HP won't offer advanced RMA's for monitors over 23"
+
+Note that astropid kind of distorted the formatting I used so it doesn't look as pretty as it normally does I can insure you I am a very clean and organized coder xD
+
+<?php
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// Coded By: MasterKush// Do not try to take credit for my work, and do not share!
+// I typically don't share any of my code so your welcome.//// Usage = http://www.your-site.com/directory/index.php?amount=5   -- 5 is the amount of serials to generate change this according./////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+$serial_constant = "3CM30601";
+$alpha_string = array("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z");
+function generate_batch_id(){    $batch_array = array("B", "C", "F", "G", "H", "K", "L", "M", "N", "Q");        return $batch_array;}
+if (!isset($_GET)){    echo 'Parse Error Please Specify Amount Parameter.\n';        exit;}
+echo "Not all serials will be valid chances are most will.\n\nConfirm Warranty Status: http://h20565.www2.hp.com/portal/site/hpsc/public/wc/home/\n\n";echo "Model: HP Envy 27\"\nProduct Number: C8K32AA\n\n";
+for ($i = 0; $i < $_GET; $i++){    $x = $i + 1;        echo "Serial #$x = " . $serial_constant . generate_batch_id() . $alpha_string . "\n";}
+?>
+
+This can be easily modified to work with different serials just change "$serial_constant" with the monitor serial you want to replace it with and then delete the last 2 characters. Simple as that!

@@ -1,0 +1,35 @@
+http://www.blogcdn.com/www.engadgethd.com/media/2009/04/ultimate-ears-700.jpg
+
+Company:  Ultimate Ears 
+Product:  Ultimate Ears 700 (Since the UE-700 has no visible PID on the earphones)
+Value:  $150 / £120
+Difficulty:  6/10
+Author: Satansfate/Elysian
+Requirements: 
+
+Verified Receipt  -  Kind of. As long as you don't use the well-known receipt generators such as Amazon, Best Buy, Newegg etc. you should be fine.
+    OR
+Pictures - If you say you lost the receipt or can't find they will ask for pictures. PM me with a case # and I'll take one for you.
+
+
+Notes: 
+This is dependent on getting a friendly manager. Not all managers will make an exception, so keep trying.
+
+Method:
+
+
+Call up the Logitech UE phone line. This is a free line in the UK, but paid in the US and is separate from the main Logitech support line, and follows different returns policy.
+US Support Number: +1 646-454-3200
+UK Support Number: 0800 085 74 99
+For other EU numbers: see here
+Say you have an issue with your earphones. Be creative, it's not hard to come up with an excuse for them to replace.
+Once they say they need replacing, typically they insist on the earphones being returned, as UE uses different returns policy to Logitech.
+This is the difficult part of the SE, and may take several tries - ask to be transferred to a supervisor. You need to persuade them to ship you the earphones without you returning the old ones. I've had no trouble doing this using multiple excuses so it can't be too difficult, but obviously this will depend on your
+You'll need to argue a bit but they should eventually say to send in a receipt and they'll see what they can do. This essentially means you've won, so send in a fake receipt.
+Wait 3 days for shipping, enjoy your brand new earphones!
+
+
+
+
+This could potentially work for the TripleFi 10 earphones too, but those have a visible PID on them so they're harder. Working on a method for those too.
+It is a bit hit-and-miss, so repeat until it works.

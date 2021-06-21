@@ -1,0 +1,38 @@
+Tutorial is from MagicPID, but I made this tutorial so I can post it wherever I wish.
+This tutorial is based on the G930, but can be interpreted to SE any product.
+NOTE: This is my 1st long ass tutorial, please do not flame!
+
+Step one, Gaining information of your product: Get the information of your product (In this tutorials case, the G930) and find out the ASIN, S/N, Model Number, and of course, the PID. One way to get this sort of information is from Amazon.com. Look at this part of the information:
+
+http://img42.imageshack.us/img42/927/capturehg.jpg
+You can see the ASIN and the Item model number.
+
+Next, we will get the logitech homepage to look for the P/N or the S/N, it is pretty much the same.
+Click on specifications once you have typed your product name "G930" on the search bar.
+You should see this:
+http://img829.imageshack.us/img829/5595/captureukl.jpg
+Now, that is all the information you need in order to SE Logitech.
+(PID should be in the AstroPID program, and choose 2010 for your product.
+
+Step 2: SE Logitech
+There are 2 ways to SE Logitech, Call-in or email support. For this tutorial, I will be guiding you on how to SE them using email support.
+Once again, go to the products webpage in the logitech website, and click Support. 
+(Link : http://www.logitech.com/en-us/gaming/headsets/devices/7248)
+You should then see this:
+http://img600.imageshack.us/img600/1060/captureohv.jpg
+Click on "Get Support Now" and find "Contact Us" after. You should then fill out the information with ASTRICKS, DO NOT GIVE MORE INFORMATION THAN NEEDED!
+Now, you are going to need a "Issue" for your product. The issue I used to SE a G930 is that the left headphone does not transmit sound. Of course, you should use your own issue in order to increase your chances of getting the product. Remember, they will be suspicious if there are many people submitting a support ticket with the same issue.
+
+Step 3: The response
+You should get a email response back from Logitech giving you troubleshooting options. Just say that I have tried the troubleshooting steps and the product still does not work.
+
+Next, they will reply back that it is faulty, and would need to be replaced. The rep would give you a warranty form. Reply with your real information and they would want a receipt. Now, there are many ways to do this, make a amazon receipt, paypal receipt, or newegg receipt. I am always successful using a paypal receipt with a small company like "Uthreds Electronics" or "The Great Empire". Something like that. If you want to be successful, try to find a small electronic company near you and use them for the receipt. Here is an example of one:
+
+http://img200.imageshack.us/img200/5817/captureah.jpg
+
+If they say the receipt is invalid, try again with different problems/email/name.
+
+If you have succeeded, you should get a reply saying they will/have sent a replacement product once you have sent them the faulty product. You now have 2 choices. You can either say to do an advanced replacement, or use the box method on them. Say that once my product is in transit, you send the replacement product. Keep pressuring them and give excuses on why they need to send the product first if you wish.
+
+They should now send you the product, and do not worry about not sending anything back. The most they can do is void your warranty on your product.
+Dang, it took me a long time to complete this, hope someone gets something good out of this.

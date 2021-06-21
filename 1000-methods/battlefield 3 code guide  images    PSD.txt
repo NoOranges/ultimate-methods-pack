@@ -1,0 +1,50 @@
+Hey guys.
+First of all I do not take any credit for this, full credit to author, but if you thought it helped please leave good feedback, really appreciated. 
+Download Link
+http://www.megaupload.com/?d=QA4GVUUL
+
+or
+
+http://www.filesonic.com/file/2737278261/BF3pass2.psd
+Online Chat Link
+
+support.ea.com/chat
+Click Talk to a Game Advisor on the right.
+------------------------------------------------------------
+1. Download the PSD
+
+Open the PSD will contain the blank image, date text and code text.
+
+2. Google Wood Flooring change option to Large images and pick a suitable Pic. Create a new Layer place below the code image and resize the flooring image.
+
+http://i42.tinypic.com/1zf33w3.jpg
+
+3. Use the Text file in the PSD to add the code  Also change the Fill to lower so the text isnt as dark.
+http://i44.tinypic.com/2q2mna0.jpg
+
+4. Go to google search for signature and a name find a signature.
+http://i43.tinypic.com/f26idd.jpg
+
+5. Copy the image and paste it in photoshop on a new layer, Either use the magic wand to remove the white around it or simply using the pen tool on 2-3px and write over the signture.
+
+Use the txt file in the PSD for the date or simply again freehand it using the pen tool.
+
+
+4. I would then suggest New Layer > Image Apply Image > Filter Blur Gassion Blue 0.2/.3 px to make it looks a little bit blurry as taken by a camera.
+
+and the finish product.
+
+http://i42.tinypic.com/ih06c1.jpg
+
+5. Go to EA Chat and explain your code dosent work they may just give u a code very lucky most most times they will ask for a pic of code signed and dated use your shopped image and either create your own recipt using google images or using Amazon Receipt Maker.
+
+
+go to
+
+support.ea.com/chat
+Click Talk to a Game Advisor on the right.
+
+
+fill out the info for the game and click live chat
+
+Note: deleted some images only 4 images allowed to be showed :-/

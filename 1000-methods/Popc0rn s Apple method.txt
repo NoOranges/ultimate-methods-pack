@@ -1,0 +1,61 @@
+This is what I used to use to get MacBooks. I have gotten about 10 of em this way, it may not still work but you can still use this as a guideline to tweak it and get some apple gear..
+
+Just a way to help out, this was in elite but I moved it down here for yall since it doesn't work exactly like this anymore.
+
+As of now I will NOT be helping anyone with any kind of apple SE. This  method is old, and I posted it is up to you guys to figure out how to  use it to your advantage. The info is there, all you need now is, idk,  maybe some social engineering to change it up and make it into a working  method for your own use.
+
+ANY APPLE ITEM
+By @Popc0rn
+
+NEEDED ITEMS:
+1. Unregistered serial
+    Easy enough to make ;) Explained later
+2. A phone
+    To call in
+3. Time
+    ;)
+
+-------------------------------------
+
+K LETS GET STARTED
+
+Step 1. Find a serial of the newest model device you want.
+    In this tutorial I will use the iPad 3.
+
+    iPad (3rd gen) Wi-Fi
+    Serial Number: DLXH18JMDJ8T
+
+Step 2. Alter the 5th digit until you find one that is not registered.
+    If you already have an unregistered serial, skip to step  3.
+
+    iPad (3rd gen) Wi-Fi
+    Serial Number: DLXH28JMDJ8T
+
+Step 3. Register iDevice and set the purchase date to the day before you call.
+    
+    iPad (3rd gen) Wi-Fi
+    Serial Number: DLXH28JMDJ8T
+    6/1/2012
+
+Step 4. Call Apple. Tell them your iDevice was just purchased, and you went to    
+    turn it on right out of the box and it wouldn't power on.
+
+Step 5. Look up DOA procedures for your country. In US, as long as it is less than
+    10 days old, it qualifies for replacement.
+
+Step 6. Bullshit your way through, get them to either:
+    A: Send you a replacement directly
+    B: Advanced replacement (CVV Required)
+    C: Tell them you start school in a week, and you need a computer. They
+    will send you a label that, once scanned in, will automatically ship your
+    replacement to you. This is my favorite
+
+Step 7. Wait for your iDevice.
+
+Step 8. ????
+
+Step 9. Profit
+
+-------------------------------------
+
+#EOF

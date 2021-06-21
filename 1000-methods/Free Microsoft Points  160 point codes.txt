@@ -1,0 +1,133 @@
+I apologize if this is the wrong section. 
+
+First off lets set up.
+
+Download a free vpn (beartunnel, kiss, easyhide...ect) or use a paid one.
+
+Get a catchall email
+
+Guide here- Wrote this for tbn....put it in pannel/vip section there decided to copy and paste and put it here Your welcome. IF you already have a catchalll email or a bunch of disposables then disregard this guide.
+
+ What this catch all email does it takes any email that is sent to a nonexistent adressYourdomain.com to youremailYourdomain.com . Now this may not seem useful but it is. Think about it. You can set youremailYourdomain.com as a paypal email and then use anyemailYourdomain.com to signup for stuff (like appredeem) and the money will go straight to your paypal no matter what.
+
+
+
+
+
+
+Step one: Get a domain/use one you already have. If you don't have a domain follow lightness's guide.
+
+
+
+
+Free Domains (TLD)
+
+http://www.gybo.com/wisconsin/
+http://www.gybo.com/ohio/
+http://www.gybo.com/california/
+http://www.gybo.com/oregon/
+
+
+They all lead to the same thing, it really doesn't matter which link you pick; the state it corresponds to doesn't matter.
+
+
+Click Get Your Free Website, sign in to Google, continue, fill out details blah blah blah.
+
+
+At the very end of intuit it'll ask for a credit card, use a vcc.
+
+
+http://thebotnet.com/freebies/76152-...-of-free-vccs/ 
+
+
+Wait max. 24 hours, sign back in, change name servers.
+
+
+???
+
+
+Profit
+
+
+All credits go to lightness - Btw dont' forget to unlock it and get the authentication code just in case
+
+
+OH and for this i do believe you have to have a published website, so if your using intuit just choose a template and press publish. (You can only have 3 pages including the 404 error page).
+
+
+
+
+2. Sign up for googleapps. Go through put in your information and go to verification. 
+
+
+3. CHOOSE OTHER VERIFICATION (there is an easier one then uploading the file).
+
+
+4. There will be an option called meta tags or something like that. Copy that tag and put it on the site. 
+
+
+If you used the free domain/intuit follow these steps
+1. Login to your intuit web builder thingymajig
+2. click page settings
+3 click advanced settings
+4. You will see something that says Add HTML or Javascript and underneath that a box which next to it says <head> tag HTML : PASTE YOUR META TAG (that google gave you there). 
+5. Publish and save
+
+
+5. When you have added it into your site press verify.
+
+
+6. Now go through all the setup. Eventually you will get to setting up gmail.  Follow what it says. 
+
+
+Intuit guide to setting up email
+1. log in on a new tab
+2. click domains
+3. click advanced dns settings
+4.  Click edit
+5. Click add mx settings
+6 follow this purdy picture and make your settings exactly the same as mine (Except for domain name of course)
+http://img841.imageshack.us/img841/2528/helpcm.png
+
+
+Uploaded with ImageShack.us
+7. press submit and save or whatever the hell it is
+
+
+
+
+
+7. Go through the rest of the setup. 
+
+
+8. Go to the top midle-right on teh pannel and click settings on that 
+
+
+9 Look to the left side of the page and you will see email- Click it
+
+
+10 Go to the catch-all adress box
+
+
+11 Click forward to: and enter the name of yoru ACTUAL EMAIL that you are using.
+
+
+12. save
+
+
+13 Log into another mail account and test it by send a random email to testYourdomain.com. then log into your domain email and see if it arrived
+
+
+14 If it works your all set and can  go to paypal and add youractualemailYourdomain.com and enjoy
+
+
+
+
+
+15. If not I have no fucking - your probably did something wrong somewhere but i don't know where. (don't ask me because I barely figured this shit out myself as it is.)
+
+
+now go to freetimemachine.com They are running a promotion. Use your vpn your neighbors address to sign up and save for automatic input, either roboform, or the google built in thing on chrome. Play the retarded game and enjoy your free codes.  When raping to change yoru address just add random numbers to the apartment box- it thinks of it as a new adress. Have FUN!
+
+
+I know this is guna get leeched but i would apreciate it if you didn't....:weep:

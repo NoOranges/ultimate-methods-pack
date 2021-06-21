@@ -1,0 +1,27 @@
+Grab a text code from this URL (Refresh every 2mins~)
+http://uploadnsell.com/check-sale.php
+
+
+Put the code in this URL:
+http://uploadnsell.com/download/(PUT CODE HERE)
+
+
+Example:
+http://uploadnsell.com/check-sale.php
+UiIkOgGgHleQ
+
+
+http://uploadnsell.com/download/UiIkOgGgHleQ/
+
+
+Not that hard to make a bot using it as well. I've seen several.
+
+Method Credits: HF
+----------------------------------------------------------------------------
+Bot Source:
+http://www.mediafire.com/?4d22u5eba9fwe50
+
+Virus Scan:
+https://www.virustotal.com/file/4d055c080b6eb80ea7ca947e444f1c38e7f9ecff085c41bd53e781251eebcc03/analysis/1346196994/
+
+Bot Source Credit: DeadLine (HF)

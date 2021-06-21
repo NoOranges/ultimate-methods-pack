@@ -1,0 +1,23 @@
+This method still works. I'm just going to paste what I wrote in my ebook.
+
+Step 1: Decide which one you want, they have the: StorCenter px4-300r 12TB (4 x 3TB) and the StorCenter px4-300d (2 x 2TB)
+
+Step 2: Obtain a serial for the prodcut you would like. The px4-300d serial looks like this: "BL0040B134" Just changle all the numbers and you will get a new serial everytime. The px4-300r serial looks like this: "AV6146B577" Do the exact same thing as above, just change all the numbers.
+
+Step 3: Make sure your serial is within its warranty. Go here: https://iomega-na-en.custhelp.com/app/answers/detail/a_id/14431 to check its warranty status. If it's out of warranty, then try for a new serial.
+
+Step 4: Register that serial so it makes the product yours. Go to: https://iomega-na-en.custhelp.com/app/register to register it, only provide your Iomega serial number, skip the Service Plan number.
+
+Step 5: Call Iomega at 1-800-940-6354 they're open, Monday - Friday, 9am - 10pm Eastern.
+
+Step 6: Tell them your name when they ask for it, and give them a callback number as well, because sometimes they will call you back for additional information.
+
+Step 7: Now when they ask what's wrong with it. Be creative, I won't tell you what I said. But it's not hard to come up with an excuse.
+
+Step 8: Now 1 of 2 things will happen, he will either RMA your product right away using advanced replacement which will require you to have a VCC on hand with the CVV. So go to Entropay and make yourself one. Or he will send you an email that you have to fill out with a PoP and he will send it up to the RMA department. It doesn't matter which one they do because either way it gets replaced. It's just one's faster than the other one.
+
+    PoP: If he does require some sort of PoP just google Amazon receipt generator or Newegg receipt generator, or a Tigerdirect receipt generator. And email them that.
+
+Note:
+
+- Some of them will verify the receipt, if that happens just rinse and repeat. It usually depends on who you're talking to.

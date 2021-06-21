@@ -1,0 +1,21 @@
+Thanks to @Theminatar I did a little more research about this.
+
+1. Go to local store and put $10 on a Green Dot card.
+
+2. Wait 60 minutes and register under your VPN with name/address (fake) http://www.fakennamegenerator.com or whatever you want to use.
+
+3. Go to pump and pay. Gas stations hold a $1 charge on the card and then charge the full amt. the following day. 
+
+Here are some of the hold amounts from different gas stations.
+
+ARCO: $75 hold 
+Chevron: $1-$18 
+Shell: $1
+
+Here is an interesting paragraph about this from someone:
+
+" When you swipe your card at a pump, it is authorized. At the time, they have no idea how much gas you are getting... are you putting a couple gallons into a scooter, or filling a recreation vehicle up with $250 worth of gas? They toss an authorization hold on there, and you pump the gas. It's usually not noticed in this case because the pump is fairly regularly updating the amounts, but you can catch it if you check your account right after pumping gas. In this case, since they don't have any idea of the amount, they often show up as an undercharge.
+
+Please note that when you pay by debit card without using a PIN, some gas stations put a hold of up to $75 on your card. That means that up to $75 of your checking account can be off limits (in addition to the price you paid for gas). The time of the hold can vary and depends on your bank. (i.e. 72 hours, 5 days, etc.) This could cause overdrafts fees, bounced checks, or insufficient funds on your account."
+
+Leave feedback if this is successful for you.

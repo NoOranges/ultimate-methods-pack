@@ -1,0 +1,63 @@
+Hello, everyone I'll be sharing my method with you today, i don't think many people have done this. It works very fine for me.
+Please don't take the method, and post it on some other forum, or make it into your own eBook.
+
+With that said, lets start.
+
+You will need:
+Some SE Skills.
+Proof of Purchase
+Local Post Office Receipt
+
+Once you have all of this, you can continue:
+
+1. Go to http://steelseries.com/
+2. Go look for a product of your choice. 
+3. Then hold your mouse over support, and then click "Contact Support".
+4. Either sign up for a user, or login with one.
+5. Once, logged in click "Submit a request".
+6. In Subject write something like this: "My "write your product here" is not working."
+7. In Weborder Ticket select "No", under WebOrder #  leave it blank.
+8. Select, your product and your country. Leave "SteelSeries Software Version #" blank.
+9. Select your "Operating System" then underneath "Is your product plugged directly into your PC/notebook?" select Yes.
+10. Now in "Description" write your problem, just be Creative.
+
+I got a response after like a few days:
+
+"I'd be more than happy to help you exchange your SteelSeries product. Our warranty is 1 year for customers in North America, and 2 years in Europe and other countries. If you fall within this time period, please provide the following information:
+
+- Purchase Date 
+- Purchase Location 
+- Full Name 
+- Current and full shipping address 
+- Current e-mail address 
+- Current telephone number
+
+- Proof of purchase -- PLEASE ATTACH BELOW (a copy of the receipt, email order confirmation, credit card statement)
+
+You can log in to your customer care account and click review/update request and update this ticket with appropriate information.
+
+If you have any additional questions, please first check the RMA FAQ ( http://faq.steelseries.com/categories/RMA/ ) in order to minimize delays.
+
+Regards, 
+Mike S
+"
+
+11. Your RMA Should be accepted, and now just wait a week or two.(Remember don't need to send anything in.)
+12. Contact your supporter, and ask why the repair is taking so long time, and tell them that you have sent the "Product Here" in for like a week ago.
+13. When your supporter responds, he will ask for a proof, that you have sent it, just use your Receipt that you have from your Local Post Office.
+14. A few day's later the supporter will respond saying this: 
+
+Hello "Your name here!",
+
+We have confirmed that your product has arrived at our warehouse. Our next step is to verify the defect and examine the contents of the package. If the product is defective as explained, then we will be sending you a new replacement product. We will send you the tracking number once the item ships.
+
+We appreciate your patience.
+
+Regards,
+
+John
+
+After this the product is gonna be sent, to your address that you provided.
+
+Thanks for reading,
+and good luck.

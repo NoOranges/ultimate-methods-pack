@@ -1,0 +1,13 @@
+
+
+Okay, you guys may know now that you require a credit card for amazon to process your order (For the Kindles, etc). Well likely none of you have one, so I've been doing a bit of buying and researching.
+
+
+Go into your Amazon account and go to the Add Credit Card. Type in 43156820******** the last 8 stars are to be replaced with random numbers. It may take a few tries but it'll work. The expiration date will always be 06/19 for this.
+Also this guide will help you: http://www.creditcards.com/credit-card-news/luhn-formula-credit-card-number-system-1273.php
+
+It works for me, and it should work for you. Have fun! :)
+
+
+You can also use this website if you don't want to do the math:
+http://www.ee.unb.ca/cgi-bin/tervo/luhn.pl
